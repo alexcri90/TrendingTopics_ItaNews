@@ -1,0 +1,34 @@
+## Project Structure
+1. Data Collection
+   - Use newsapi.org to fetch daily articles from Italian newspapers
+   - Store the collected articles in a suitable format (e.g., JSON or CSV)
+
+2. Data Preprocessing
+   - Clean the text data (remove HTML tags, special characters, etc.)
+   - Tokenize the text
+   - Remove stopwords
+   - Perform lemmatization or stemming
+
+3. Topic Modeling
+   - Use a topic modeling algorithm (e.g., Latent Dirichlet Allocation - LDA)
+   - Extract 10 topics from the preprocessed text data
+   - Identify the top 30 most important words for each topic
+
+4. Visualization
+   - Create an interactive visualization of the topics and their top words
+   - Implement hover effects to show additional information
+
+5. Web Application
+   - Develop a simple web interface to display the results
+   - Update the data and analysis daily
+
+## Required Libraries
+- requests: For making API calls to newsapi.org
+- pandas: For data manipulation
+- nltk: For text preprocessing
+- gensim: For topic modeling (LDA)
+- plotly: For interactive visualizations
+- streamlit: For creating the web application
+
+## Deployment
+- Use Streamlit Sharing for easy deployment directly from GitHub

@@ -1,0 +1,5 @@
+# Ignore specific directories in your project structure
+
+
+# Ignore all files with a certain extension
+*.env
