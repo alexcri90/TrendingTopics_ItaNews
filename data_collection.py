@@ -1,7 +1,6 @@
 import os
 import json
 import requests
-import pandas as pd
 from datetime import datetime
 from dotenv import load_dotenv
 
@@ -15,9 +14,9 @@ if not API_KEY:
 
 BASE_URL = 'https://newsdata.io/api/1/news'
 
-def fetch_news(language='it', category=None, country=None):
+def fetch_news(language='it', category=None, country=None, max_credits=12):
     """
-    Fetch news articles from NewsData.io API.
+    Fetch news articles from NewsData.io API, using exactly 12 credits.
     """
     params = {
         'apikey': API_KEY,
@@ -30,14 +29,15 @@ def fetch_news(language='it', category=None, country=None):
         params['country'] = country
 
     all_articles = []
+    credits_used = 0
     next_page = None
 
-    while True:
+    while credits_used < max_credits:
         if next_page:
             params['page'] = next_page
 
         try:
-            print("Fetching news articles...")
+            print(f"Fetching news articles (Credit {credits_used + 1}/{max_credits})...")
             print(f"Request URL: {BASE_URL}")
             print(f"Request params: {params}")
             response = requests.get(BASE_URL, params=params)
@@ -48,6 +48,7 @@ def fetch_news(language='it', category=None, country=None):
                 all_articles.extend(data['results'])
                 print(f"Fetched {len(data['results'])} articles. Total: {len(all_articles)}")
                 
+                credits_used += 1
                 next_page = data.get('nextPage')
                 if not next_page:
                     break
@@ -60,6 +61,7 @@ def fetch_news(language='it', category=None, country=None):
             print(f"Response content: {response.text}")
             break
 
+    print(f"Total credits used: {credits_used}")
     return all_articles
 
 def process_articles(articles):
@@ -85,40 +87,33 @@ def process_articles(articles):
         processed_articles.append(processed_article)
     return processed_articles
 
-def save_articles(articles, format='json'):
+def save_articles(articles):
     """
-    Save fetched articles to a file in the specified format.
+    Save fetched articles to a JSON file.
     """
     date_str = datetime.now().strftime('%Y-%m-%d')
     os.makedirs('data', exist_ok=True)
     
-    if format == 'json':
-        filename = f"data/articles_{date_str}.json"
-        with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(articles, f, ensure_ascii=False, indent=4)
-    elif format == 'csv':
-        filename = f"data/articles_{date_str}.csv"
-        df = pd.DataFrame(articles)
-        df.to_csv(filename, index=False, encoding='utf-8')
-    else:
-        raise ValueError(f"Unsupported format: {format}")
+    filename = f"data/articles_{date_str}.json"
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(articles, f, ensure_ascii=False, indent=4)
     
     print(f"Saved {len(articles)} articles to {filename}")
 
-def main(output_format='json', language='it', category=None, country=None):
+def main(language='it', category=None, country=None):
     print("Starting data collection process")
     print(f"API Key being used: {API_KEY[:5]}...{API_KEY[-5:]}")  # Print first and last 5 characters of API key
     
-    articles = fetch_news(language, category, country)
+    articles = fetch_news(language, category, country, max_credits=12)
     if articles:
         print(f"Fetched a total of {len(articles)} articles")
         
         processed_articles = process_articles(articles)
-        save_articles(processed_articles, format=output_format)
+        save_articles(processed_articles)
     else:
         print("No articles fetched.")
 
     print("Data collection process completed")
 
 if __name__ == "__main__":
-    main(output_format='json', language='it', country='it')
+    main(language='it', country='it')
