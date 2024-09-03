@@ -1,15 +1,33 @@
-import pandas as pd
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import SnowballStemmer
 
-nltk.download('punkt')
-nltk.download('stopwords')
+# Download required NLTK data
+nltk.download('punkt', quiet=True)
+nltk.download('stopwords', quiet=True)
+
+# Explicitly download Italian punkt data
+import ssl
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
+
+nltk.download('punkt', quiet=True)
+
+# Load Italian tokenizer
+from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
+punkt_param = PunktParameters()
+punkt_param.abbrev_types = set(['dr', 'vs', 'mr', 'mrs', 'prof', 'inc', 'fig'])
+italian_tokenizer = PunktSentenceTokenizer(punkt_param)
 
 def preprocess_text(text):
     # Tokenize
-    tokens = word_tokenize(text.lower())
+    sentences = italian_tokenizer.tokenize(text.lower())
+    tokens = [word for sent in sentences for word in word_tokenize(sent)]
     
     # Remove stopwords and non-alphabetic tokens
     stop_words = set(stopwords.words('italian'))
@@ -21,12 +39,15 @@ def preprocess_text(text):
     
     return tokens
 
-def preprocess_articles(date):
-    filename = f"data/articles_{date}.csv"
-    df = pd.read_csv(filename)
+def preprocess_articles(articles):
+    processed_articles = []
+    for article in articles:
+        content = article.get('content', '')
+        if content:
+            processed_text = preprocess_text(content)
+            processed_article = article.copy()
+            processed_article['processed_text'] = processed_text
+            processed_articles.append(processed_article)
     
-    df['processed_text'] = df['content'].fillna('').apply(preprocess_text)
-    
-    processed_filename = f"data/processed_articles_{date}.csv"
-    df.to_csv(processed_filename, index=False)
-    print(f"Saved processed articles to {processed_filename}")
+    print(f"Preprocessed {len(processed_articles)} articles")
+    return processed_articles
