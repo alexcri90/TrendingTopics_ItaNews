@@ -1,8 +1,8 @@
 from gensim import corpora
 from gensim.models import LdaModel
 
-def perform_topic_modeling(preprocessed_articles, num_topics=10):
-    # Create dictionary
+def perform_topic_modeling(preprocessed_articles, num_topics=7):
+    # Create dictionary from the preprocessed text (combined title and description)
     texts = [article['processed_text'] for article in preprocessed_articles]
     dictionary = corpora.Dictionary(texts)
     
@@ -12,4 +12,4 @@ def perform_topic_modeling(preprocessed_articles, num_topics=10):
     # Train LDA model
     lda_model = LdaModel(corpus=corpus, id2word=dictionary, num_topics=num_topics, random_state=100)
     
-    return lda_model, dictionary
+    return lda_model, dictionary, corpus

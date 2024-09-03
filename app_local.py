@@ -3,9 +3,9 @@ import json
 from datetime import datetime, timedelta
 from preprocessing import preprocess_articles
 from topic_modeling import perform_topic_modeling
-from visualization import create_topic_visualization
+from visualization import visualize_topics
 import nltk
-import ssl
+import os
 
 def load_articles(date):
     """
@@ -26,34 +26,24 @@ def load_articles(date):
 
 def download_nltk_data():
     try:
-        # Create an unverified SSL context to avoid download issues
-        try:
-            _create_unverified_https_context = ssl._create_unverified_context
-        except AttributeError:
-            pass
-        else:
-            ssl._create_default_https_context = _create_unverified_https_context
-
-        nltk.download('punkt', quiet=True)
-        nltk.download('stopwords', quiet=True)
-        
-        # Explicitly download Italian punkt data
-        import nltk.data
-        nltk.data.find('tokenizers/punkt/italian.pickle')
+        nltk.data.find('corpora/stopwords')
     except LookupError:
         st.warning("Downloading necessary NLTK data...")
-        nltk.download('punkt')
         nltk.download('stopwords')
-    except Exception as e:
-        st.error(f"An error occurred while downloading NLTK data: {str(e)}")
-        st.error("Please try running the following commands in your Python environment:")
-        st.code("import nltk\nnltk.download('punkt')\nnltk.download('stopwords')")
+
+    # Check if the download was successful
+    try:
+        nltk.data.find('corpora/stopwords')
+        st.success("NLTK data downloaded successfully!")
+    except LookupError:
+        st.error("Failed to download NLTK data. Please try manual download.")
+        st.code("""
+import nltk
+nltk.download('stopwords')
+        """)
 
 def main():
     st.title('Italian News Topic Modeler')
-    
-    # Ensure NLTK data is available
-    download_nltk_data()
     
     # Get today's date
     today = datetime.now().date()
@@ -78,25 +68,23 @@ def main():
         try:
             # Preprocess articles
             preprocessed_articles = preprocess_articles(articles)
-            st.write(f"Preprocessed {len(preprocessed_articles)} articles")
+            st.write(f"Preprocessed {len(preprocessed_articles)} articles (title and description)")
             
             # Perform topic modeling
-            lda_model, dictionary = perform_topic_modeling(preprocessed_articles)
-            st.write(f"Performed topic modeling. Number of topics: {lda_model.num_topics}")
+            lda_model, dictionary, corpus = perform_topic_modeling(preprocessed_articles)
+            st.write(f"Performed topic modeling on titles and descriptions. Number of topics: {lda_model.num_topics}")
             
-            # Create visualization
-            fig = create_topic_visualization(lda_model, dictionary)
+            # Create and display visualization
+            visualize_topics(lda_model, corpus, dictionary)
             
-            # Display visualization
-            st.plotly_chart(fig)
         except Exception as e:
             st.error(f"An error occurred during processing: {str(e)}")
-            st.error("If the error persists, please try manually downloading NLTK data:")
+            st.error("If the error persists, please check your NLTK data installation:")
             st.code("""
 import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('popular')
+import os
+print(nltk.data.path)
+print(os.listdir(nltk.data.find('corpora')))
             """)
     else:
         st.write(f"No data available for analysis on {date_str}.")
