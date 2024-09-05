@@ -1,0 +1,2452 @@
+[
+    {
+        "id": "pianetamilan",
+        "name": "PianetaMilan",
+        "url": "https://www.pianetamilan.it",
+        "icon": "https://i.bytvi.com/domain_icons/pianetamilan.png",
+        "priority": 912628,
+        "description": "Milan: scopri le ultime news, video, notizie di calciomercato, interviste, esclusive e molto altro! Seguici su PianetaMilan.it",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-27 10:15:12"
+    },
+    {
+        "id": "leggo",
+        "name": "Leggo.it",
+        "url": "https://www.leggo.it",
+        "icon": "https://i.bytvi.com/domain_icons/leggo.png",
+        "priority": 870592,
+        "description": "Leggo is an Italian newspaper and was the first free daily newspaper published in Italy.",
+        "category": [
+            "sports",
+            "politics",
+            "entertainment",
+            "business",
+            "technology",
+            "top",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "panorama_it",
+        "name": "Panorama IT",
+        "url": "https://www.panorama.it",
+        "icon": "https://i.bytvi.com/domain_icons/panorama_it.png",
+        "priority": 400466,
+        "description": "Panorama is a weekly Italian-language news magazine published in Italy and based in Milan.",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "entertainment",
+            "crime",
+            "business",
+            "top",
+            "other",
+            "technology",
+            "food",
+            "tourism",
+            "lifestyle"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "avvenire",
+        "name": "Avvenire",
+        "url": "https://www.avvenire.it",
+        "icon": "https://i.bytvi.com/domain_icons/avvenire.png",
+        "priority": 2525529,
+        "description": "Avvenire - un quotidiano di ispirazione cattolica: notizie e approfondimenti su chiesa, Papa Francesco, cronaca, cultura, politica, mondo ed economia con foto, immagini e video",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "ilfoglio",
+        "name": "Il Foglio",
+        "url": "https://www.ilfoglio.it",
+        "icon": "https://i.bytvi.com/domain_icons/ilfoglio.jpg",
+        "priority": 795652,
+        "description": "Il Foglio, giornale fondato da Giuliano Ferrara e ora diretto da Claudio Cerasa. Il giornale che vanta il maggior numero di imitazioni.",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2024-06-26 03:28:29"
+    },
+    {
+        "id": "quotidiano",
+        "name": "Quotidiano Nazionale",
+        "url": "https://www.quotidiano.net",
+        "icon": "https://i.bytvi.com/domain_icons/quotidiano.png",
+        "priority": 666743,
+        "description": "Tutte le notizie, foto e video di oggi su cronaca, politica, sport, economia, tecnologia e motori in tempo reale.",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "lifestyle",
+            "business",
+            "other",
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "pianetaserieb_it",
+        "name": "Pianeta Serie B",
+        "url": "https://www.pianetaserieb.it",
+        "icon": "https://i.bytvi.com/domain_icons/pianetaserieb_it.jpg",
+        "priority": 619623,
+        "description": "PianetaSerieB.it è un sito d'informazione dedicato alla Serie B italiana di calcio. Classifica, risultati, calciomercato, notizie, rassegna stampa",
+        "category": [
+            "sports"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "ravennatoday",
+        "name": "RavennaToday",
+        "url": "https://www.ravennatoday.it",
+        "icon": "https://i.bytvi.com/domain_icons/ravennatoday.png",
+        "priority": 2971020,
+        "description": "RavennaToday - il giornale on line: cronaca e notizie dai principali quartieri della città, e informazioni di sport e cultura",
+        "category": [
+            "sports",
+            "politics",
+            "entertainment",
+            "business",
+            "environment",
+            "other",
+            "technology",
+            "top",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "laprovinciadicomo",
+        "name": "La Provincia Unica Tv",
+        "url": "https://www.laprovinciadicomo.it",
+        "icon": "https://i.bytvi.com/domain_icons/laprovinciadicomo.png",
+        "priority": 2135287,
+        "description": "Como, Provincia, Notizie, News, Informazione, Annunci di Lavoro, Necrologi, Case in Festa, Eventi, Cinema, Farmacie, Negozi, Aeroporto Malpensa, Meteo.",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "techradar_it",
+        "name": "TechRadar It",
+        "url": "https://global.techradar.com/it-it",
+        "icon": null,
+        "priority": 2159,
+        "description": "Le ultime notizie e recensioni dal mondo della tecnologia, su computer, sistemi per la casa, gadget e altro",
+        "category": [
+            "technology",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "benzinga_it",
+        "name": "Benzinga Italia",
+        "url": "https://it.benzinga.com",
+        "icon": "https://i.bytvi.com/domain_icons/benzinga_it.png",
+        "priority": 2000,
+        "description": "Benzinga Italia è il leader su notizie economiche e finanziarie nel mercato azionario USA ed un punto di riferimento per gli investitori.",
+        "category": [
+            "technology",
+            "top",
+            "health",
+            "business"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-30 11:33:52"
+    },
+    {
+        "id": "hwupgrade",
+        "name": "HW upgrade",
+        "url": "https://www.hwupgrade.it",
+        "icon": "https://i.bytvi.com/domain_icons/hwupgrade.jpg",
+        "priority": 2211557,
+        "description": "News, articoli, recensioni, download dal mondo dell'informatica e della tecnologia.",
+        "category": [
+            "technology"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-21 11:40:31"
+    },
+    {
+        "id": "ilcentro",
+        "name": "Il Centro",
+        "url": "https://www.ilcentro.it",
+        "icon": null,
+        "priority": 1724441,
+        "description": "Le ultime notizie di Il Centro - Quotidiano d'Abruzzo",
+        "category": [
+            "sports",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "quifinanza",
+        "name": "QuiFinanza",
+        "url": "https://quifinanza.it",
+        "icon": "https://i.bytvi.com/domain_icons/quifinanza.png",
+        "priority": 1220972,
+        "description": "Su QuiFinanza trovi news e approfondimenti di Economia, Fisco, Tasse, Soldi e Lavoro, oltre ai nostri Calcolatori e alle quotazioni di borsa in tempo reale.",
+        "category": [
+            "sports",
+            "politics",
+            "business",
+            "top",
+            "lifestyle",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-26 19:32:20"
+    },
+    {
+        "id": "open",
+        "name": "OPEN",
+        "url": "https://www.open.online",
+        "icon": "https://i.bytvi.com/domain_icons/open.png",
+        "priority": 1266079,
+        "description": "Segui su Open le ultime notizie di politica, economia, fact-checking, tecnologia, ambiente e attualità con interviste, foto, video e grafici multimediali.",
+        "category": [
+            "sports",
+            "entertainment",
+            "business",
+            "environment",
+            "technology",
+            "science",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-26 02:31:17"
+    },
+    {
+        "id": "romatoday",
+        "name": "ROMATODAY",
+        "url": "https://www.romatoday.it",
+        "icon": "https://i.bytvi.com/domain_icons/romatoday.png",
+        "priority": 1013674,
+        "description": "RomaToday il giornale on line: Cronaca e notizie dai principali quartieri della città, e informazioni di sport e cultura",
+        "category": [
+            "sports",
+            "politics",
+            "entertainment",
+            "crime",
+            "business",
+            "environment",
+            "other",
+            "technology",
+            "food",
+            "top",
+            "health",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-27 01:43:59"
+    },
+    {
+        "id": "tgcom24",
+        "name": "TGCOM24",
+        "url": "https://www.tgcom24.mediaset.it",
+        "icon": "https://i.bytvi.com/domain_icons/tgcom24.png",
+        "priority": 42360,
+        "description": "Quotidiano online del sistema multimediale di Mediaset: cronaca, politica, esteri, economia, sport, spettacoli e televisione. Cultura, tecnologia, viaggi, salute e meteo",
+        "category": [
+            "politics",
+            "entertainment",
+            "lifestyle",
+            "business",
+            "other",
+            "food",
+            "tourism",
+            "top",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "superguidatv",
+        "name": "SUPERGUIDA TV",
+        "url": "https://www.superguidatv.it",
+        "icon": "https://i.bytvi.com/domain_icons/superguidatv.png",
+        "priority": 341722,
+        "description": "Scopri su SuperGuidaTV la programmazione di tutti i canali Rai, Mediaset, Premium e Sky. Palinsesti completi, film stasera, serie TV e anticipazioni.",
+        "category": [
+            "entertainment",
+            "lifestyle",
+            "sports"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-21 13:03:26"
+    },
+    {
+        "id": "tg24sky",
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it",
+        "icon": "https://i.bytvi.com/domain_icons/tg24sky.jpg",
+        "priority": 91278,
+        "description": "Sky TG24 le ultime notizie di oggi, l'ultima ora e le ultimissime news aggiornate in tempo reale.",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "investing_it",
+        "name": "Investing - Quotazioni",
+        "url": "https://it.investing.com",
+        "icon": "https://i.bytvi.com/domain_icons/investing_it.png",
+        "priority": 1205,
+        "description": "Scopri Quotazioni e ultime notizie su Borsa, Economia e Finanza. Investing.com offre analisi e previsioni in tempo reale su Finanza e Mercati",
+        "category": [
+            "top",
+            "world",
+            "business"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "affaritaliani",
+        "name": "Affaritaliani",
+        "url": "https://www.affaritaliani.it",
+        "icon": null,
+        "priority": 2027791,
+        "description": "Affaritaliani.it è il primo quotidiano digitale dal 1996, con tutte le ultime notizie di politica, economia, cronache, sport, cultura, spettacoli, mediatech, completamente free e anche su mobile.",
+        "category": [
+            "politics",
+            "top",
+            "business"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "mashable_it",
+        "name": "Mashable Italia",
+        "url": "https://it.mashable.com",
+        "icon": "https://i.bytvi.com/domain_icons/mashable_it.png",
+        "priority": 1215,
+        "description": "L'edizione italiana di Mashable",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "entertainment",
+            "business",
+            "environment",
+            "other",
+            "technology",
+            "science",
+            "lifestyle"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "udinetoday",
+        "name": "UdineToday",
+        "url": "https://www.udinetoday.it",
+        "icon": "https://i.bytvi.com/domain_icons/udinetoday.png",
+        "priority": 2838194,
+        "description": "UdineToday - il giornale on line: cronaca e notizie dai principali quartieri della città, e informazioni di sport e cultura",
+        "category": [
+            "sports",
+            "politics",
+            "entertainment",
+            "business",
+            "environment",
+            "other",
+            "technology",
+            "science",
+            "top",
+            "health",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-27 02:15:43"
+    },
+    {
+        "id": "agi",
+        "name": "Agenzia Giornalistica Italia",
+        "url": "https://www.agi.it",
+        "icon": "https://i.bytvi.com/domain_icons/agi.png",
+        "priority": 1445424,
+        "description": "Ultime notizie AGI - Agenzia Giornalistica Italia: News online di Cronaca, Economia, Politica, Estero, Spettacolo, Sport, Cronaca Locale - AGI.it",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "entertainment",
+            "lifestyle",
+            "business",
+            "science",
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "gds",
+        "name": "GDS",
+        "url": "https://gds.it",
+        "icon": "https://i.bytvi.com/domain_icons/gds.png",
+        "priority": 372375,
+        "description": "Speciale Scienza e Tecnica - Giornale di Sicilia",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-22 16:11:14"
+    },
+    {
+        "id": "lecceprima",
+        "name": "Lecceprima",
+        "url": "https://www.lecceprima.it",
+        "icon": "https://i.bytvi.com/domain_icons/lecceprima.png",
+        "priority": 2355499,
+        "description": "Lecceprima - il giornale on line: cronaca e notizie dai principali quartieri della città, e informazioni di sport e cultura",
+        "category": [
+            "sports",
+            "politics",
+            "entertainment",
+            "crime",
+            "business",
+            "environment",
+            "other",
+            "technology",
+            "top",
+            "health",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "pisatoday",
+        "name": "PisaToday",
+        "url": "https://www.pisatoday.it",
+        "icon": "https://i.bytvi.com/domain_icons/pisatoday.png",
+        "priority": 1552614,
+        "description": "pisatoday - il giornale on line: cronaca e notizie dai principali quartieri della città, e informazioni di sport e cultura",
+        "category": [
+            "sports",
+            "politics",
+            "entertainment",
+            "business",
+            "environment",
+            "other",
+            "technology",
+            "top",
+            "health",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "fanpage",
+        "name": "Fanpage News",
+        "url": "https://www.fanpage.it",
+        "icon": "https://i.bytvi.com/domain_icons/fanpage.png",
+        "priority": 312582,
+        "description": "Tutte le news di oggi dall&#039;Italia e dal Mondo: gli aggiornamenti dell&#039;ultima ora su attualità, cronaca e politica con video, immagini e interviste",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "entertainment",
+            "business",
+            "technology",
+            "science",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "ilpost",
+        "name": "il POST",
+        "url": "https://www.ilpost.it",
+        "icon": "https://i.bytvi.com/domain_icons/ilpost.png",
+        "priority": 350151,
+        "description": "Gli articoli, le rassegne, i blog, le foto, tutto quello che arriva dal mondo e dalla rete.",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "entertainment",
+            "lifestyle",
+            "business",
+            "other",
+            "technology",
+            "science",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-27 03:47:29"
+    },
+    {
+        "id": "energyintel",
+        "name": "Energy Intelligence",
+        "url": "https://www.energyintel.com",
+        "icon": "https://i.bytvi.com/domain_icons/energyintel.png",
+        "priority": 451779,
+        "description": "Energy Intelligence is the leading energy information company. We understand what it takes to bring energy to the world, and have delivered objective reporting and analysis on the sector for over 70 years. Our long history, combined with our team of experts and extensive connections, gives us an unparalleled view on what’s shaping the energy sector.",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "tpi",
+        "name": "TPI",
+        "url": "https://www.tpi.it",
+        "icon": "https://i.bytvi.com/domain_icons/tpi.png",
+        "priority": 1014024,
+        "description": "The Post Internazionale: le notizie che cerchi sempre aggiornate. Senza giri di parole. Ultime news. Sostieni il giornalismo indipendente",
+        "category": [
+            "sports",
+            "entertainment",
+            "business",
+            "environment",
+            "technology",
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-26 21:36:18"
+    },
+    {
+        "id": "unionesarda",
+        "name": "Unione",
+        "url": "https://www.unionesarda.it",
+        "icon": "https://i.bytvi.com/domain_icons/unionesarda.jpg",
+        "priority": 191652,
+        "description": "notizie, video, foto e approfondimenti. - L'Unione Sarda.it",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-23 18:03:20"
+    },
+    {
+        "id": "gizchina",
+        "name": "GIZCHINA",
+        "url": "https://gizchina.it",
+        "icon": "https://i.bytvi.com/domain_icons/gizchina.png",
+        "priority": 1468718,
+        "description": "GizChina.it è il portale n°1 in Italia sulla tecnologia cinese con recensioni, offerte, guide, notizie, e consigli per tutti gli utenti.",
+        "category": [
+            "technology"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-25 10:40:24"
+    },
+    {
+        "id": "calciomercato",
+        "name": "Calciomercato",
+        "url": "https://www.calciomercato.com",
+        "icon": "https://i.bytvi.com/domain_icons/calciomercato.png",
+        "priority": 74654,
+        "description": "News, crime, weather, photos, video, University of Tennessee, Tennessee Vols football, and sports for Knoxville, Tennessee, from the Knoxville News Sentinel.",
+        "category": [
+            "sports"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "firenzetoday",
+        "name": "FirenzeToday",
+        "url": "https://www.firenzetoday.it",
+        "icon": "https://i.bytvi.com/domain_icons/firenzetoday.png",
+        "priority": 2164570,
+        "description": "FirenzeToday - il giornale on line: cronaca e notizie dai principali quartieri della città, e informazioni di sport e cultura",
+        "category": [
+            "sports",
+            "politics",
+            "entertainment",
+            "business",
+            "environment",
+            "other",
+            "technology",
+            "food",
+            "top",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "bergamonews",
+        "name": "Bergamonews",
+        "url": "https://www.bergamonews.it",
+        "icon": "https://i.bytvi.com/domain_icons/bergamonews.png",
+        "priority": 2110945,
+        "description": "Bergamonews notizie in tempo reale da tutta Bergamo e provincia: cronaca, politica, eventi, sport ...",
+        "category": [
+            "sports",
+            "politics",
+            "entertainment",
+            "other",
+            "technology",
+            "top",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "ecodibergamo",
+        "name": "L'Eco di Bergamo",
+        "url": "https://www.ecodibergamo.it",
+        "icon": "https://i.bytvi.com/domain_icons/ecodibergamo.png",
+        "priority": 1119430,
+        "description": "Bergamo, Provincia, Notizie, News, Informazione, Annunci di Lavoro, Necrologi, Case in Festa, Eventi, Cinema, Farmacie, Negozi, Aeroporto Orio al Serio, Meteo.",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "agenziaentrate",
+        "name": "Agenzia delle Entrate",
+        "url": "https://www.agenziaentrate.gov.it/portale",
+        "icon": "https://i.bytvi.com/domain_icons/agenziaentrate.png",
+        "priority": 181939,
+        "description": "The Agenzia delle Entrate, or the Italian Revenue Agency, is the Italian governmental agency that enforces the financial code of Italy and collects taxes and revenue.",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "ansa",
+        "name": "ANSA",
+        "url": "https://www.ansa.it",
+        "icon": "https://i.bytvi.com/domain_icons/ansa.png",
+        "priority": 68597,
+        "description": "Agenzia ANSA: ultime notizie, foto, video e approfondimenti su: cronaca, politica, economia, regioni, mondo, sport, calcio, cultura e tecnologia",
+        "category": [
+            "sports",
+            "entertainment",
+            "business",
+            "environment",
+            "technology",
+            "science",
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-27 05:10:28"
+    },
+    {
+        "id": "thelocal_it",
+        "name": "The Local Italy",
+        "url": "https://www.thelocal.it",
+        "icon": null,
+        "priority": 85870,
+        "description": "Latest news, travel, politics, money, jobs and more. Get guides on property, second homes, visas, language, taxes from The Local&#039;s journalists in Italy",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "laprovinciapavese",
+        "name": "La Provincia Pavese",
+        "url": "https://laprovinciapavese.gelocal.it/pavia",
+        "icon": "https://i.bytvi.com/domain_icons/laprovinciapavese.png",
+        "priority": 251977,
+        "description": "Tutte le notizie di Pavia e dintorni, con foto e video, di cronaca, politica, sport, cultura, spettacoli, economia e tempo libero",
+        "category": [
+            "sports",
+            "entertainment",
+            "top",
+            "world"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "forbes",
+        "name": "Forbes",
+        "url": "https://www.forbes.com",
+        "icon": "https://i.bytvi.com/domain_icons/forbes.png",
+        "priority": 154,
+        "description": "Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle.",
+        "category": [
+            "politics",
+            "entertainment",
+            "crime",
+            "lifestyle",
+            "business",
+            "technology",
+            "tourism",
+            "top",
+            "health",
+            "education"
+        ],
+        "language": [
+            "english",
+            "italian"
+        ],
+        "country": [
+            "united states of america",
+            "italy"
+        ],
+        "last_fetch": "2023-11-27 10:09:08"
+    },
+    {
+        "id": "ilmattino",
+        "name": "Il Mattino",
+        "url": "https://www.ilmattino.it",
+        "icon": "https://i.bytvi.com/domain_icons/ilmattino.png",
+        "priority": 123948,
+        "description": "Il Mattino is an Italian daily newspaper published in Naples, Italy.",
+        "category": [
+            "sports",
+            "entertainment",
+            "business",
+            "technology",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "rainews",
+        "name": "RaiNews",
+        "url": "https://www.rainews.it",
+        "icon": "https://i.bytvi.com/domain_icons/rainews.jpg",
+        "priority": 143226,
+        "description": "RaiNews è il portale di notizie di Rai aggiornato 24 ore su 24. News, attualità, ultime notizie e aggiornamenti sempre gratuiti.",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "entertainment",
+            "crime",
+            "lifestyle",
+            "business",
+            "environment",
+            "other",
+            "technology",
+            "science",
+            "tourism",
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "asianews",
+        "name": "AsiaNews",
+        "url": "http://www.asianews.it",
+        "icon": "https://i.bytvi.com/domain_icons/asianews.png",
+        "priority": 289135,
+        "description": "Urne aperte il 24 ottobre per le presidenziali. Ammessi solo i partiti filo-governativi. In Asia centrale il presidente uzbeko è considerato un leader autorevole.  Cinesi e occidentali apprezzano le sue aperture economiche. Opposizioni già liquidate dal “padre della patria” Karimov.",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-27 00:21:22"
+    },
+    {
+        "id": "milannews",
+        "name": "Milan News",
+        "url": "https://www.milannews.it",
+        "icon": "https://i.bytvi.com/domain_icons/milannews.png",
+        "priority": 519547,
+        "description": "notizie sul Milan, risultati e classifiche, rassegna stampa e molto altro ancora.",
+        "category": [
+            "sports"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-26 21:36:25"
+    },
+    {
+        "id": "ilmessaggero",
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it",
+        "icon": "https://i.bytvi.com/domain_icons/ilmessaggero.png",
+        "priority": 105580,
+        "description": "Il Messaggero - Il giornale di Roma, da sempre",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "other",
+            "technology",
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "telefriuli",
+        "name": "telefriuli",
+        "url": "https://www.telefriuli.it",
+        "icon": "https://i.bytvi.com/domain_icons/telefriuli.png",
+        "priority": 2770993,
+        "description": "C'è anche il friulano Alessandro Pozzetto tra le migliori voci della musica gospel italiana chiamate a partecipare a The Journey, il tour che Andrea Bocelli sta realizzando lungo la via Francigena.",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-26 14:43:40"
+    },
+    {
+        "id": "today",
+        "name": "TODAY",
+        "url": "https://www.today.it",
+        "icon": "https://i.bytvi.com/domain_icons/today.png",
+        "priority": 469386,
+        "description": "Today il giornale on line: Cronaca e notizie dai principali quartieri della città, e informazioni di sport e cultura",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "entertainment",
+            "crime",
+            "lifestyle",
+            "business",
+            "environment",
+            "other",
+            "technology",
+            "food",
+            "science",
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "montenegro",
+            "liechtenstein",
+            "russia",
+            "netherland",
+            "switzerland",
+            "sweden",
+            "estonia",
+            "greece",
+            "hungary",
+            "bosnia and herzegovina",
+            "france",
+            "spain",
+            "austria",
+            "poland",
+            "czech republic",
+            "belarus",
+            "iceland",
+            "kosovo",
+            "macedonia",
+            "san marino",
+            "serbia",
+            "andorra",
+            "slovakia",
+            "cyprus",
+            "ukraine",
+            "portugal",
+            "romania",
+            "germany",
+            "denmark",
+            "lithuania",
+            "croatia",
+            "luxembourg",
+            "slovenia",
+            "bulgaria",
+            "malta",
+            "united kingdom",
+            "albania",
+            "moldova",
+            "ireland",
+            "monaco",
+            "belgium",
+            "norway",
+            "finland",
+            "vatican",
+            "latvia",
+            "italy"
+        ],
+        "last_fetch": "2023-11-26 21:36:21"
+    },
+    {
+        "id": "ilgiorno",
+        "name": "IL GIORNO",
+        "url": "https://www.ilgiorno.it",
+        "icon": "https://i.bytvi.com/domain_icons/ilgiorno.png",
+        "priority": 637944,
+        "description": "Il Giorno - Quotidiano di Milano, notizie della Lombardia",
+        "category": [
+            "sports",
+            "politics",
+            "entertainment",
+            "business",
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-27 06:48:21"
+    },
+    {
+        "id": "sportando",
+        "name": "Sportando",
+        "url": "https://sportando.basketball",
+        "icon": "https://i.bytvi.com/domain_icons/sportando.png",
+        "priority": 229191,
+        "description": "Sportando: risultati di basket, notizie di pallacanestro, classifiche, basket mercato, statistiche, roster, rumors NBA e tanto altro sul mondo della pallacanestro.",
+        "category": [
+            "sports"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-26 03:12:05"
+    },
+    {
+        "id": "ilsecoloxix",
+        "name": "Il Secolo XIX",
+        "url": "https://www.ilsecoloxix.it",
+        "icon": "https://i.bytvi.com/domain_icons/ilsecoloxix.png",
+        "priority": 543476,
+        "description": "Il Secolo XIX, il quotidiano online della Liguria: news locali, nazionali e internazionali. Notizie e informazione multimediale con video, foto e audio da Geno",
+        "category": [
+            "sports",
+            "entertainment",
+            "business",
+            "food",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "nuovavenezia",
+        "name": "La Nuova Venezia",
+        "url": "https://nuovavenezia.gelocal.it/venezia",
+        "icon": "https://i.bytvi.com/domain_icons/nuovavenezia.png",
+        "priority": 251977,
+        "description": "Tutte le notizie di Venezia e dintorni, con foto e video, di cronaca, politica, sport, cultura, spettacoli, economia e tempo libero",
+        "category": [
+            "sports",
+            "world",
+            "entertainment",
+            "other",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "corrieredellosport",
+        "name": "Corriere dello Sport",
+        "url": "https://www.corrieredellosport.it",
+        "icon": "https://i.bytvi.com/domain_icons/corrieredellosport.jpg",
+        "priority": 29173,
+        "description": "Leggi su corrieredellosport.it le ultime news sportive e di cronaca, segui i live, consulta i risultati, le statistiche, le foto ed i video di calcio, basket, F1, tennis e molto altro.",
+        "category": [
+            "sports",
+            "lifestyle"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "laverita",
+        "name": "La Verita",
+        "url": "https://www.laverita.info",
+        "icon": "https://i.bytvi.com/domain_icons/laverita.png",
+        "priority": 607722,
+        "description": "La Verità (\"The Truth\") is an Italian newspaper published in Milan, Italy. The newspaper is conservative and right-wing populist in outlook and often offers Catholic-inspired views, albeit being somewhat critical of Pope Francis.",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "entertainment",
+            "crime",
+            "lifestyle",
+            "business",
+            "other",
+            "technology",
+            "tourism",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "euronews_it",
+        "name": "Euronews iT",
+        "url": "https://it.euronews.com",
+        "icon": "https://i.bytvi.com/domain_icons/euronews_it.png",
+        "priority": 2584,
+        "description": "Le notizie del giorno nei nostri video on demand gratuiti. Per rimanere sempre aggiornati sulle notizie di attualit&agrave; in Europa e nel mondo su economia, politica e diplomazia... con Euronews.",
+        "category": [
+            "sports",
+            "world",
+            "entertainment",
+            "business",
+            "environment",
+            "technology",
+            "food",
+            "tourism",
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "montenegro",
+            "liechtenstein",
+            "russia",
+            "netherland",
+            "switzerland",
+            "sweden",
+            "estonia",
+            "greece",
+            "hungary",
+            "bosnia and herzegovina",
+            "france",
+            "spain",
+            "austria",
+            "poland",
+            "czech republic",
+            "belarus",
+            "iceland",
+            "kosovo",
+            "macedonia",
+            "san marino",
+            "serbia",
+            "andorra",
+            "slovakia",
+            "cyprus",
+            "ukraine",
+            "portugal",
+            "romania",
+            "germany",
+            "denmark",
+            "lithuania",
+            "croatia",
+            "luxembourg",
+            "slovenia",
+            "bulgaria",
+            "malta",
+            "united kingdom",
+            "albania",
+            "moldova",
+            "ireland",
+            "monaco",
+            "belgium",
+            "norway",
+            "finland",
+            "vatican",
+            "latvia",
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "linkiesta",
+        "name": "Linkiesta.it",
+        "url": "https://www.linkiesta.it",
+        "icon": null,
+        "priority": 2550885,
+        "description": "Linkiesta is an independent Italian online newspaper of investigative journalism, in-depth analysis, and commentary. It was launched on 31 January 2011, with the first editor-in-chief being Jacopo Tondelli.",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2024-09-04 05:20:03"
+    },
+    {
+        "id": "motor1",
+        "name": "Motor1",
+        "url": "https://www.motor1.com",
+        "icon": "https://i.bytvi.com/domain_icons/motor1.png",
+        "priority": 2452,
+        "description": "Bringing car buyers and enthusiasts automotive news coverage with high-res images and video from car shows and reveals around the world.",
+        "category": [
+            "entertainment",
+            "technology",
+            "top"
+        ],
+        "language": [
+            "hungarian",
+            "spanish",
+            "german",
+            "english",
+            "french",
+            "indonesian",
+            "portuguese",
+            "italian",
+            "turkish",
+            "arabic"
+        ],
+        "country": [
+            "united kingdom",
+            "portugal",
+            "saudi arabia",
+            "germany",
+            "argentina",
+            "netherland",
+            "indonesia",
+            "brazil",
+            "united states of america",
+            "switzerland",
+            "hungary",
+            "united arab emirates",
+            "belgium",
+            "spain",
+            "turkey",
+            "france",
+            "italy",
+            "austria"
+        ],
+        "last_fetch": "2023-11-27 00:22:41"
+    },
+    {
+        "id": "italiantribune",
+        "name": "The Italian Tribune",
+        "url": "https://italiantribune.com",
+        "icon": "https://i.bytvi.com/domain_icons/italiantribune.jpg",
+        "priority": 306139,
+        "description": "The Italian Tribune is America's oldest continiously published Italian-American publication. Founded in 1931.",
+        "category": [
+            "sports",
+            "entertainment",
+            "top",
+            "other",
+            "technology",
+            "food",
+            "lifestyle",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "milanofinanza",
+        "name": "Milano Finanza",
+        "url": "https://www.milanofinanza.it",
+        "icon": "https://i.bytvi.com/domain_icons/milanofinanza.png",
+        "priority": 661797,
+        "description": "Il meglio dell'informazione finanziara ed economica. Tutto su politica, cronaca italiana ed estera, norme e tributi, fondi e obbligazioni.",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "ilriformista",
+        "name": "Il Riformista",
+        "url": "https://www.ilriformista.it",
+        "icon": "https://i.bytvi.com/domain_icons/ilriformista.png",
+        "priority": 1937201,
+        "description": "L’idea riformista, l’idea libertaria e l’idea garantista. Informazione in tempo reale e la battaglia delle idee. Le idee - capito? - non la propaganda.",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "environment",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "lifeinitaly",
+        "name": "Life in Italy",
+        "url": "https://lifeinitaly.com",
+        "icon": "https://i.bytvi.com/domain_icons/lifeinitaly.jpg",
+        "priority": 161498,
+        "description": "Life in Italy, Italian Language, Italian Culture, Italy News, Tourism News, Italian Food",
+        "category": [
+            "sports",
+            "entertainment",
+            "lifestyle",
+            "business",
+            "other",
+            "technology",
+            "food",
+            "tourism",
+            "top",
+            "health",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "lettera43",
+        "name": "Lettera43",
+        "url": "https://www.lettera43.it",
+        "icon": "https://i.bytvi.com/domain_icons/lettera43.jpg",
+        "priority": 9868128,
+        "description": "Notizie, sussurri, retroscena e protagonisti. Il mondo del potere svelato e raccontato a chi lo vive e a chi non lo ha mai frequentato.",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "lalaziosiamonoi",
+        "name": "LaLazioSiamoNoi",
+        "url": "https://www.lalaziosiamonoi.it",
+        "icon": "https://i.bytvi.com/domain_icons/lalaziosiamonoi.png",
+        "priority": 1354049,
+        "description": "La Lazio siamo noi: notizie sulla Lazio, risultati e classifiche, rassegna stampa e molto altro ancora.",
+        "category": [
+            "sports"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-25 21:03:04"
+    },
+    {
+        "id": "liberoquotidiano",
+        "name": "Libero Quotidiano",
+        "url": "https://www.liberoquotidiano.it",
+        "icon": "https://i.bytvi.com/domain_icons/liberoquotidiano.jpg",
+        "priority": 200706,
+        "description": "",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "entertainment",
+            "business",
+            "other",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-27 01:44:00"
+    },
+    {
+        "id": "livesicilia_it",
+        "name": "LiveSicilia – Il",
+        "url": "https://livesicilia.it",
+        "icon": "https://i.bytvi.com/domain_icons/livesicilia_it.png",
+        "priority": 1527161,
+        "description": "Inchieste, politica, ultima ora, arresti, economia, sport, video, foto e interviste esclusive: leggi LiveSicilia per tutte le notizie dalla Sicilia",
+        "category": [
+            "politics",
+            "world",
+            "entertainment",
+            "business",
+            "environment",
+            "food",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "napolitoday",
+        "name": "NapoliToday",
+        "url": "https://www.napolitoday.it",
+        "icon": "https://i.bytvi.com/domain_icons/napolitoday.png",
+        "priority": 887345,
+        "description": "NapoliToday - il giornale on line: cronaca e notizie dai principali quartieri della città, e informazioni di sport e cultura",
+        "category": [
+            "sports",
+            "politics",
+            "entertainment",
+            "crime",
+            "business",
+            "environment",
+            "other",
+            "technology",
+            "food",
+            "top",
+            "health",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "borse",
+        "name": "Borse.it",
+        "url": "https://www.borse.it",
+        "icon": "https://i.bytvi.com/domain_icons/borse.png",
+        "priority": 2463494,
+        "description": "Sito che offre notizie, quotazioni, grafici, analisi su azioni, Btp, Bot, titoli di Stato esteri, corporate bond, fondi, Etf della Borsa Italiana e di quelle estere",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "bestmovie",
+        "name": "Best MOVIE",
+        "url": "https://www.bestmovie.it",
+        "icon": "https://i.bytvi.com/domain_icons/bestmovie.png",
+        "priority": 2783619,
+        "description": "Best Movie è il sito ufficiale del mensile di cinema e streaming più diffuso in Italia: news, recensioni, anteprime, trame e trailer di film e serie TV.",
+        "category": [
+            "entertainment"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-25 00:24:35"
+    },
+    {
+        "id": "pmi",
+        "name": "PMI",
+        "url": "https://www.pmi.it",
+        "icon": "https://i.bytvi.com/domain_icons/pmi.png",
+        "priority": 2445149,
+        "description": "PMI.it è il portale delle piccole e medie imprese italiane: news, approfondimenti, strumenti IT e guide sulla gestione aziendale e le opportunità di business.",
+        "category": [
+            "technology",
+            "top",
+            "business"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-25 15:35:25"
+    },
+    {
+        "id": "milannews24",
+        "name": "Milan News 24",
+        "url": "https://www.milannews24.com",
+        "icon": "https://i.bytvi.com/domain_icons/milannews24.png",
+        "priority": 2012217,
+        "description": "Ultime News Milan: notizie, calciomercato a aggiornamenti sui rossoneri",
+        "category": [
+            "sports"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-26 12:40:39"
+    },
+    {
+        "id": "lastampa",
+        "name": "LA STAMPA",
+        "url": "https://www.lastampa.it",
+        "icon": "https://i.bytvi.com/domain_icons/lastampa.png",
+        "priority": 72246,
+        "description": "Segui le ultime notizie de La Stampa e rimani aggiornato su tutti i fatti di cronaca, politica, economia e molto altro in Italia e nel mondo.",
+        "category": [
+            "sports",
+            "entertainment",
+            "business",
+            "technology",
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-27 03:47:30"
+    },
+    {
+        "id": "ilfattoquotidiano",
+        "name": "Il Fatto Quotidiano",
+        "url": "https://www.ilfattoquotidiano.it",
+        "icon": "https://i.bytvi.com/domain_icons/ilfattoquotidiano.png",
+        "priority": 103356,
+        "description": "Le ultime notizie su cronaca, politica, economia, giustizia, sport, tecnologia e tanto altro. Inchieste, opinioni, foto, video e discussioni della community.",
+        "category": [
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-27 08:52:30"
+    },
+    {
+        "id": "messaggeroveneto",
+        "name": "Messaggero Veneto Udine",
+        "url": "https://messaggeroveneto.gelocal.it/udine",
+        "icon": "https://i.bytvi.com/domain_icons/messaggeroveneto.png",
+        "priority": 247479,
+        "description": "Tutte le notizie di Udine e dintorni, con foto e video, di cronaca, politica, sport, cultura, spettacoli, economia e tempo libero",
+        "category": [
+            "sports",
+            "world",
+            "entertainment",
+            "other",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "soldionline",
+        "name": "Soldi On Line",
+        "url": "https://www.soldionline.it",
+        "icon": "https://i.bytvi.com/domain_icons/soldionline.png",
+        "priority": 1430885,
+        "description": "Sito indipendente di economia e finanza. Ogni giorno approfondimenti, quotazioni, grafici e ultime dai mercati finanziari e dalla Borsa",
+        "category": [
+            "top",
+            "business"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "sportmediaset",
+        "name": "SportMediaset",
+        "url": "https://www.sportmediaset.mediaset.it",
+        "icon": "https://i.bytvi.com/domain_icons/sportmediaset.png",
+        "priority": 42360,
+        "description": "Quotidiano online del sistema multimediale di Mediaset: cronaca, politica, esteri, economia, sport, spettacoli e televisione. Cultura, tecnologia, viaggi, salute e meteo",
+        "category": [
+            "sports"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "nicolaporro",
+        "name": "Nicola Porro",
+        "url": "https://www.nicolaporro.it",
+        "icon": "https://i.bytvi.com/domain_icons/nicolaporro.png",
+        "priority": 2847595,
+        "description": "Nicola Porro è vicedirettore de il Giornale e si occupa in particolare di economia e finanza. Conduce Quarta Repubblica su Rete 4, e tutti i giorni cucina una zuppa di Porro sul suo sito nicolaporro.it",
+        "category": [
+            "sports",
+            "politics",
+            "entertainment",
+            "business",
+            "environment",
+            "other",
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "juventusnews24",
+        "name": "Juventus News 24",
+        "url": "https://www.juventusnews24.com",
+        "icon": "https://i.bytvi.com/domain_icons/juventusnews24.png",
+        "priority": 1127534,
+        "description": "Ultime News Juventus: formazioni, scoop, calciomercato.",
+        "category": [
+            "sports"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-27 09:33:49"
+    },
+    {
+        "id": "internazionale",
+        "name": "Internazionale",
+        "url": "https://www.internazionale.it",
+        "icon": "https://i.bytvi.com/domain_icons/internazionale.png",
+        "priority": 427115,
+        "description": "Notizie, commenti, articoli, reportage, foto e video da tutto il mondo scelti dalla redazione di Internazionale.",
+        "category": [
+            "politics",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "pressenza",
+        "name": "Pressenza",
+        "url": "https://www.pressenza.com/it",
+        "icon": "https://i.bytvi.com/domain_icons/pressenza.jpg",
+        "priority": 559647,
+        "description": "International Press Agency",
+        "category": [
+            "entertainment",
+            "business",
+            "environment",
+            "technology",
+            "science",
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-26 23:40:19"
+    },
+    {
+        "id": "ilsussidiario",
+        "name": "ISCRIVITI ALLA NEWSLETTER",
+        "url": "https://www.ilsussidiario.net",
+        "icon": "https://i.bytvi.com/domain_icons/ilsussidiario.png",
+        "priority": 2052135,
+        "description": "Ultime notizie online: notizie su Politica, Cinema, tv e Sport. Leggi le ultime notizie Italia sul quotidiano online più letto. Ultime notizie online",
+        "category": [
+            "sports",
+            "entertainment",
+            "crime",
+            "lifestyle",
+            "business",
+            "environment",
+            "technology",
+            "top",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "solomon islands",
+            "micronesia",
+            "guinea",
+            "libya",
+            "argentina",
+            "colombia",
+            "gambia",
+            "cameroon",
+            "namibia",
+            "nigeria",
+            "malawi",
+            "samoa",
+            "kiribati",
+            "algeria",
+            "fiji",
+            "ecuador",
+            "dominican republic",
+            "burundi",
+            "guatemala",
+            "peru",
+            "angola",
+            "canada",
+            "italy",
+            "mexico",
+            "gabon",
+            "netherland",
+            "cuba",
+            "zimbabwe",
+            "dr congo",
+            "zambia",
+            "australia",
+            "bolivia",
+            "paraguay",
+            "rwanda",
+            "panama",
+            "jamaica",
+            "guyana",
+            "nauru",
+            "palau",
+            "barbados",
+            "uruguay",
+            "djibouti",
+            "marshall islands",
+            "botswana",
+            "chile",
+            "tonga",
+            "nicaragua",
+            "dominica",
+            "mauritania",
+            "kenya",
+            "sudan",
+            "new zealand",
+            "ghana",
+            "tunisia",
+            "papua new guinea",
+            "tuvalu",
+            "cape verde",
+            "costa rica",
+            "burkina fasco",
+            "liberia",
+            "brazil",
+            "united states of america",
+            "mauritius",
+            "equatorial guinea",
+            "sierra leone",
+            "benin",
+            "bahamas",
+            "haiti",
+            "tanzania",
+            "lesotho",
+            "ivory coast",
+            "south africa",
+            "mozambique",
+            "suriname",
+            "grenada",
+            "mali",
+            "venezuela",
+            "puerto rico",
+            "somalia",
+            "senegal",
+            "congo",
+            "honduras",
+            "vanuatu",
+            "uganda",
+            "togo",
+            "madagascar",
+            "seychelles",
+            "morocco",
+            "ethiopia",
+            "niger",
+            "el salvador",
+            "central african republic",
+            "belize",
+            "cayman islands",
+            "eritrea",
+            "chad"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "mattinopadova",
+        "name": "Il Mattino di Padova",
+        "url": "https://mattinopadova.gelocal.it/padova",
+        "icon": "https://i.bytvi.com/domain_icons/mattinopadova.png",
+        "priority": 251977,
+        "description": "Tutte le notizie di Padova e dintorni, con foto e video, di cronaca, politica, sport, cultura, spettacoli, economia e tempo libero",
+        "category": [
+            "sports",
+            "world",
+            "entertainment",
+            "other",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "inaf",
+        "name": "MEDIA INAF",
+        "url": "https://www.media.inaf.it",
+        "icon": "https://i.bytvi.com/domain_icons/inaf.png",
+        "priority": 713908,
+        "description": "Il notiziario online dell’Istituto nazionale di astrofisica",
+        "category": [
+            "science"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-25 23:06:07"
+    },
+    {
+        "id": "tuttosport",
+        "name": "TUTTOSPORT",
+        "url": "https://www.tuttosport.com",
+        "icon": "https://i.bytvi.com/domain_icons/tuttosport.jpg",
+        "priority": 68565,
+        "description": "Leggi Tuttosport.com, trova news in tempo reale e scoop in esclusiva su calcio, calciomercato, formula 1, moto e tutti i tuoi sport preferiti!",
+        "category": [
+            "sports"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-26 02:31:15"
+    },
+    {
+        "id": "lagazzettadelmezzogiorno",
+        "name": "La Gazzetta del Mezzogiorno",
+        "url": "https://www.lagazzettadelmezzogiorno.it",
+        "icon": "https://i.bytvi.com/domain_icons/lagazzettadelmezzogiorno.png",
+        "priority": 1143951,
+        "description": "La Gazzetta del Mezzogiorno: quotidiano aggiornato su Bari, Bat, Brindisi, Foggia, Lecce, Taranto, Matera, Potenza, Puglia, Basilicata, sport, cronaca, video.",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "entertainment",
+            "crime",
+            "business",
+            "technology",
+            "top",
+            "health"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "everyeye",
+        "name": "everyeye",
+        "url": "https://tech.everyeye.it",
+        "icon": "https://i.bytvi.com/domain_icons/everyeye.png",
+        "priority": 681837,
+        "description": "Scopri su Everyeye Tech le ultime novità e recensioni sul mondo della Tecnologia, Smartphone, Scienza, Geek e PC",
+        "category": [
+            "technology"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-25 01:46:52"
+    },
+    {
+        "id": "milanotoday",
+        "name": "MILANOTODAY",
+        "url": "https://www.milanotoday.it",
+        "icon": "https://i.bytvi.com/domain_icons/milanotoday.png",
+        "priority": 1322771,
+        "description": "MilanoToday il giornale on line: Cronaca e notizie dai principali quartieri della città, e informazioni di sport e cultura",
+        "category": [
+            "sports",
+            "politics",
+            "entertainment",
+            "crime",
+            "business",
+            "environment",
+            "other",
+            "technology",
+            "food",
+            "top",
+            "health",
+            "education"
+        ],
+        "language": [
+            "italian",
+            "english"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-26 18:09:45"
+    },
+    {
+        "id": "iltempo",
+        "name": "IL TEMPO",
+        "url": "https://www.iltempo.it",
+        "icon": "https://i.bytvi.com/domain_icons/iltempo.png",
+        "priority": 391409,
+        "description": "",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "entertainment",
+            "business",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-26 03:12:08"
+    },
+    {
+        "id": "lasicilia",
+        "name": "La Sicilia",
+        "url": "https://www.lasicilia.it",
+        "icon": null,
+        "priority": 833132,
+        "description": "La Sicilia is an Italian national daily newspaper for the island of Sicily. Published in Catania, it is the second best-selling newspaper in Sicily. It was first published in 1945.",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "entertainment",
+            "business",
+            "environment",
+            "other",
+            "tourism",
+            "top",
+            "health",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "montenegro",
+            "liechtenstein",
+            "russia",
+            "netherland",
+            "switzerland",
+            "sweden",
+            "estonia",
+            "greece",
+            "hungary",
+            "bosnia and herzegovina",
+            "france",
+            "spain",
+            "austria",
+            "poland",
+            "czech republic",
+            "belarus",
+            "iceland",
+            "kosovo",
+            "macedonia",
+            "san marino",
+            "serbia",
+            "andorra",
+            "slovakia",
+            "cyprus",
+            "ukraine",
+            "portugal",
+            "romania",
+            "germany",
+            "denmark",
+            "lithuania",
+            "croatia",
+            "luxembourg",
+            "slovenia",
+            "bulgaria",
+            "malta",
+            "united kingdom",
+            "albania",
+            "moldova",
+            "ireland",
+            "monaco",
+            "belgium",
+            "norway",
+            "finland",
+            "vatican",
+            "latvia",
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "gazzettadelsud",
+        "name": "GDS",
+        "url": "https://gazzettadelsud.it",
+        "icon": "https://i.bytvi.com/domain_icons/gazzettadelsud.png",
+        "priority": 656759,
+        "description": "Gazzetta del Sud - il sito web del quotidiano che  informa con notizie dalla Sicilia, dalla Calabria e dall'Italia su cronaca, politica, economia, sport",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-26 17:28:26"
+    },
+    {
+        "id": "varesenews",
+        "name": "Varese News",
+        "url": "https://www.varesenews.it",
+        "icon": "https://i.bytvi.com/domain_icons/varesenews.png",
+        "priority": 1972429,
+        "description": "Portale di informazioni e risorse su arte, cinema, libri, teatro e tempo libero nella città.",
+        "category": [
+            "sports",
+            "politics",
+            "world",
+            "entertainment",
+            "lifestyle",
+            "business",
+            "environment",
+            "other",
+            "technology",
+            "science",
+            "tourism",
+            "top",
+            "health",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "cataniatoday",
+        "name": "CataniaToday",
+        "url": "http://www.cataniatoday.it",
+        "icon": "https://i.bytvi.com/domain_icons/cataniatoday.png",
+        "priority": 1974785,
+        "description": "CataniaToday - il giornale on line: cronaca e notizie dai principali quartieri della città, e informazioni di sport e cultura",
+        "category": [
+            "sports",
+            "politics",
+            "entertainment",
+            "business",
+            "environment",
+            "other",
+            "food",
+            "top",
+            "health",
+            "education"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-27 04:59:33"
+    },
+    {
+        "id": "bancaditalia",
+        "name": "Banca d'Italia",
+        "url": "https://www.bancaditalia.it",
+        "icon": "https://i.bytvi.com/domain_icons/bancaditalia.png",
+        "priority": 317578,
+        "description": "Banca d'Italia Il sito ufficiale della Banca Centrale Italiana",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "davidemaggio",
+        "name": "DAVIDEMAGGIO",
+        "url": "https://www.davidemaggio.it",
+        "icon": "https://i.bytvi.com/domain_icons/davidemaggio.jpg",
+        "priority": 2409719,
+        "description": "La TV dietro le quinte",
+        "category": [
+            "entertainment"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-25 07:15:49"
+    },
+    {
+        "id": "corrierealpi",
+        "name": "Corriere delle Alpi",
+        "url": "https://corrierealpi.gelocal.it/belluno",
+        "icon": "https://i.bytvi.com/domain_icons/corrierealpi.png",
+        "priority": 252277,
+        "description": "Tutte le notizie di Belluno e dintorni, con foto e video, di cronaca, politica, sport, cultura, spettacoli, economia e tempo libero",
+        "category": [
+            "sports",
+            "world",
+            "entertainment",
+            "other",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "europapress_it",
+        "name": "Europa Press",
+        "url": "https://www.europapress.it",
+        "icon": "https://i.bytvi.com/domain_icons/europapress_it.png",
+        "priority": 55264,
+        "description": "Proprietà di Balzano Editore iscritta al Tribunale di Crotone al n. 184/2019",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-25 18:09:23"
+    },
+    {
+        "id": "gazzetta",
+        "name": "Gazzetta",
+        "url": "https://www.gazzetta.it",
+        "icon": "https://i.bytvi.com/domain_icons/gazzetta.png",
+        "priority": 15223,
+        "description": "Leggi su gazzetta.it le ultime news sportive live, scopri i risultati in diretta e video di calcio, basket, F1, MotoGP, ciclismo, tennis e molto altro.",
+        "category": [
+            "sports"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": "2023-11-25 12:50:21"
+    },
+    {
+        "id": "agrifoglio_ilfoglio",
+        "name": "AgriFoglio",
+        "url": "https://agrifoglio.ilfoglio.it",
+        "icon": "https://i.bytvi.com/domain_icons/agrifoglio_ilfoglio.png",
+        "priority": 795652,
+        "description": "Il Foglio is an Italian daily newspaper with circulation around 25.000 copies per day, with an overall spread of 47.000, as of 2015. It was founded in 1996 by the Italian journalist and politician Giuliano Ferrara. Since 2015, it has been directed by Claudio Cerasa.",
+        "category": [
+            "other",
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "teleborsa",
+        "name": "Teleborsa",
+        "url": "https://www.teleborsa.it",
+        "icon": null,
+        "priority": 2391676,
+        "description": "Agenzia stampa indipendente di economia e finanza. Quotazioni in tempo reale, grafici, notizie, video interviste e approfondimenti sui principali strumenti finanziari, sui mercati internazionali e sulla Borsa",
+        "category": [
+            "top"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    },
+    {
+        "id": "investireoggi",
+        "name": "Investireoggi It",
+        "url": "https://www.investireoggi.it",
+        "icon": "https://i.bytvi.com/domain_icons/investireoggi.png",
+        "priority": 2838532,
+        "description": "Giornale online indipendente sulla economia, il fisco, la finanza, il lavoro e le pensioni, il risparmio individuale",
+        "category": [
+            "top",
+            "business"
+        ],
+        "language": [
+            "italian"
+        ],
+        "country": [
+            "italy"
+        ],
+        "last_fetch": null
+    }
+]

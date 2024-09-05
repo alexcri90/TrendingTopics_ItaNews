@@ -6,6 +6,10 @@ from topic_modeling import perform_topic_modeling
 from visualization import visualize_topics
 import nltk
 import os
+import logging
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 def load_articles(date):
     """
@@ -45,15 +49,13 @@ nltk.download('stopwords')
 def main():
     st.title('Italian News Topic Modeler')
     
-    # Get today's date
-    today = datetime.now().date()
-    
     # Date selection
+    today = datetime.now().date()
     selected_date = st.date_input(
         "Select date for analysis",
         value=today,
         max_value=today,
-        min_value=today - timedelta(days=30)  # Allowing selection up to 30 days in the past
+        min_value=today - timedelta(days=30)
     )
     
     date_str = selected_date.strftime('%Y-%m-%d')
@@ -64,30 +66,39 @@ def main():
     
     if articles:
         st.write(f"Loaded {len(articles)} articles")
+        logger.info(f"Loaded {len(articles)} articles")
         
         try:
             # Preprocess articles
             preprocessed_articles = preprocess_articles(articles)
-            st.write(f"Preprocessed {len(preprocessed_articles)} articles (title and description)")
+            logger.info(f"Preprocessed {len(preprocessed_articles)} articles")
+            
+            if not preprocessed_articles:
+                st.error("No articles remained after preprocessing. Check your data.")
+                logger.error("No articles remained after preprocessing")
+                return
             
             # Perform topic modeling
-            lda_model, dictionary, corpus = perform_topic_modeling(preprocessed_articles)
-            st.write(f"Performed topic modeling on titles and descriptions. Number of topics: {lda_model.num_topics}")
+            with st.spinner("Performing topic modeling and finding optimal number of topics..."):
+                lda_model, dictionary, corpus = perform_topic_modeling(preprocessed_articles)
             
-            # Create and display visualization
-            visualize_topics(lda_model, corpus, dictionary)
+            if lda_model and dictionary and corpus:
+                st.write(f"Performed topic modeling on titles and descriptions. Number of topics: {lda_model.num_topics}")
+                logger.info(f"Performed topic modeling. Number of topics: {lda_model.num_topics}")
+                
+                # Create and display visualization
+                visualize_topics(lda_model, corpus, dictionary)
+            else:
+                st.error("Topic modeling failed. Please check your data structure.")
+                logger.error("Topic modeling failed")
             
         except Exception as e:
+            logger.exception("An error occurred during processing")
             st.error(f"An error occurred during processing: {str(e)}")
-            st.error("If the error persists, please check your NLTK data installation:")
-            st.code("""
-import nltk
-import os
-print(nltk.data.path)
-print(os.listdir(nltk.data.find('corpora')))
-            """)
+            st.error("Check the logs for more details.")
     else:
         st.write(f"No data available for analysis on {date_str}.")
+        logger.warning(f"No data available for analysis on {date_str}")
         st.write("Please make sure you have a JSON file named "
                  f"'articles_{date_str}.json' in the 'data/' directory.")
 
