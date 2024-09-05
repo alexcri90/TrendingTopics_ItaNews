@@ -13,7 +13,7 @@ if not API_KEY:
     raise ValueError("API_KEY not found. Make sure it's set in your .env file.")
 
 BASE_URL = 'https://newsdata.io/api/1/news'
-MAX_CREDITS = 200
+MAX_CREDITS = 30
 
 def load_source_ids():
     """Load source IDs from the list_sources file."""
@@ -82,8 +82,9 @@ def save_articles(articles):
         return
 
     today = datetime.now().strftime("%Y-%m-%d")
-    filename = f"articles_{today}.json"
+    filename = f"data/articles_{today}.json"
     
+    os.makedirs("data", exist_ok=True)
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(articles, f, ensure_ascii=False, indent=4)
     
