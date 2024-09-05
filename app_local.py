@@ -2,7 +2,9 @@ import streamlit as st
 import json
 from datetime import datetime, timedelta
 from preprocessing import preprocess_articles
-from visualization import visualize_topics_sklearn
+from visualization import (visualize_topics_sklearn, create_topic_document_map, 
+                           create_topic_trends, create_topic_similarity_network, 
+                           display_top_articles, create_topic_proportion_chart)
 import nltk
 import os
 import logging
@@ -125,8 +127,15 @@ def main():
                 st.write(f"Performed topic modeling. Number of topics: {lda_model.n_components}")
                 logger.info(f"Performed topic modeling. Number of topics: {lda_model.n_components}")
                 
-                # Create and display visualization
+                # Create and display visualizations
                 visualize_topics_sklearn(lda_model, X, feature_names, articles)
+                
+                # New visualizations
+                create_topic_document_map(lda_model, X, articles)
+                create_topic_trends(lda_model, articles)
+                create_topic_similarity_network(lda_model, feature_names)
+                display_top_articles(lda_model, articles)
+                create_topic_proportion_chart(lda_model, articles)
             else:
                 st.error("Topic modeling failed. Please check your data structure.")
                 logger.error("Topic modeling failed")

@@ -1,5 +1,1412 @@
 [
     {
+        "article_id": "e596667acede5789f64e39a02584e558",
+        "title": "\"Senza tagli rischiamo troppa austerity\". Cipollone (Bce) lancia un monito sui tassi",
+        "link": "https://www.ilgiornale.it/news/europa/senza-tagli-rischiamo-troppa-austerity-cipollone-bce-lancia-2365165.html",
+        "keywords": [
+            "europa"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Rodolfo Parietti)"
+        ],
+        "video_url": null,
+        "description": "L'italiano nel board di Francoforte: \"Più grande è il debito e più volatile è il mercato\". Segnali dal settore manifatturiero",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:45:21",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725511467-agenzia-fotogramma-fgr3906831.jpg?_=1725511467",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "3dd39dc20fba6d5557b73c43f537609c",
+        "title": "Quello che non torna nell’omicidio Bellocco: «Andrea Beretta ha accoltellato e si è sparato da solo»",
+        "link": "https://www.open.online/2024/09/05/omicidio-antonio-bellocco-andrea-beretta-ricostruzione/",
+        "keywords": [
+            "inchieste",
+            "omicidi",
+            "milano",
+            "sparatorie",
+            "arresti",
+            "lombardia",
+            "ultras",
+            "armi",
+            "accoltellamenti",
+            "attualità",
+            "'ndrangheta"
+        ],
+        "creator": [
+            "Alessandro D’Amato"
+        ],
+        "video_url": null,
+        "description": "L'indagine punta sul piano preordinato dell'ultras dell'Inter. Che dice di aver agito per legittima difesaL'articolo Quello che non torna nell’omicidio Bellocco: «Andrea Beretta ha accoltellato e si è sparato da solo» proviene da Open.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:30:53",
+        "pubDateTZ": "UTC",
+        "image_url": "https://static.open.online/wp-content/uploads/2024/09/antonio-bellocco-andrea-beretta-omicidio.jpg",
+        "source_id": "open",
+        "source_priority": 1266079,
+        "source_name": "Open",
+        "source_url": "https://www.open.online",
+        "source_icon": "https://i.bytvi.com/domain_icons/open.png",
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "ea344b6295787218dc244bd9b487f8c5",
+        "title": "Balneari prorogati al 2027. Ma sugli indennizzi è caos",
+        "link": "https://www.ilgiornale.it/news/governo/balneari-prorogati-2027-sugli-indennizzi-caos-2365157.html",
+        "keywords": [
+            "governo"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Felice Manti)"
+        ],
+        "video_url": null,
+        "description": "Previsti risarcimenti sugli investimenti solo degli ultimi 5 anni. L'opposizione: pagliacciata. Però la commissione Ue approva",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:29:59",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/08/04/1722761576-deckchairs-355596-1280.jpg?_=1722761576",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "510758ec35595af5d900d0c69ce81630",
+        "title": "Starmer costretto a una finanziaria lacrime e sangue. La prima mossa è un tetto ai sussidi per il riscaldamento versati ai pensionati",
+        "link": "https://www.ilfattoquotidiano.it/2024/09/05/starmer-costretto-a-una-finanziaria-lacrime-e-sangue-la-prima-mossa-e-un-tetto-ai-sussidi-per-il-riscaldamento-versati-ai-pensionati/7680866/",
+        "keywords": [
+            "gran bretagna",
+            "mondo",
+            "keir starmer",
+            "tasse"
+        ],
+        "creator": [
+            "Giorgia Scaturro"
+        ],
+        "video_url": null,
+        "description": "Stabilizzare l’economia e far crescere il paese: la sfida annunciata dal primo ministro Keir Starmer dopo la ripresa dell’attività politica britannica, mentre dalle poltrone verdi dei Comuni nel suo primo ‘interrogatorio alla Camera’ (il Prime Minister’s Question) i parlamentari si scagliavano su di lui con le loro richieste: casa, ambiente, transizione energetica, criminalità, armi ad [...]L'articolo Starmer costretto a una finanziaria lacrime e sangue. La prima mossa è un tetto ai sussidi per il riscaldamento versati ai pensionati proviene da Il Fatto Quotidiano.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:29:18",
+        "pubDateTZ": "UTC",
+        "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/04/starmer-1200-2-1050x551.jpg",
+        "source_id": "ilfattoquotidiano",
+        "source_priority": 103356,
+        "source_name": "Il Fatto Quotidiano",
+        "source_url": "https://www.ilfattoquotidiano.it",
+        "source_icon": "https://i.bytvi.com/domain_icons/ilfattoquotidiano.png",
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "d6f3e53456f029ec1bacc506edf30df5",
+        "title": "Ucciso il trafficante Bidja, ai vertici della guardia costiera libica. La reporter Nancy Porsia: “Mi voleva morta, ma a tradirmi fu l’Italia”",
+        "link": "https://www.ilfattoquotidiano.it/2024/09/05/ucciso-il-trafficante-bidja-ai-vertici-della-guardia-costiera-libica-la-reporter-nancy-porsia-mi-voleva-morta-ma-a-tradirmi-fu-litalia/7681020/",
+        "keywords": [
+            "sbarchi",
+            "libia",
+            "migranti",
+            "marco minniti",
+            "mondo",
+            "matteo piantedosi",
+            "giorgia meloni"
+        ],
+        "creator": [
+            "Franz Baraggino"
+        ],
+        "video_url": null,
+        "description": "Bidja è morto, viva Bidja! Abdul Rahaman al Milad, questo il suo nome, è stato ucciso domenica scorsa in un agguato all’uscita dalla sua Accademia Navale a Janzour, città costiera della Tripolitania. Alto ufficiale della guardia costiera libica, Bidja è stato il principale trafficante di esseri umani della Libia nord-occidentale. Indagato dalla procura della Corte [...]L'articolo Ucciso il trafficante Bidja, ai vertici della guardia costiera libica. La reporter Nancy Porsia: “Mi voleva morta, ma a tradirmi fu l’Italia” proviene da Il Fatto Quotidiano.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:28:27",
+        "pubDateTZ": "UTC",
+        "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/04/Porsia_1200-1050x551.jpg",
+        "source_id": "ilfattoquotidiano",
+        "source_priority": 103356,
+        "source_name": "Il Fatto Quotidiano",
+        "source_url": "https://www.ilfattoquotidiano.it",
+        "source_icon": "https://i.bytvi.com/domain_icons/ilfattoquotidiano.png",
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "d68197406880f2a3cb020bcd449d7b2d",
+        "title": "Nordio al collega: \"Occorre cautela\". E Bonelli corre a denunciare in procura",
+        "link": "https://www.ilgiornale.it/news/governo/nordio-collega-occorre-cautela-e-bonelli-corre-denunciare-2365155.html",
+        "keywords": [
+            "governo"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Fabrizio De Feo)"
+        ],
+        "video_url": null,
+        "description": "Donzelli (Fdi) difende il capo di dicastero: \"È solo gossip\". Italia Viva ne chiede le dimissioni. Conte: \"Venga in aula\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:26:25",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/07/11/1720689551-azcb3ymrup89ehv9pvgi-lapresse.jpg?_=1720689551",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "7544bd3255418a8dbdab0b0bdbe90bfc",
+        "title": "Jannik Sinner batte Medvedev e va in semifinale agli Us Open per la prima volta in carriera",
+        "link": "https://www.open.online/2024/09/05/us-open-jannik-sinner-vs-medvedev-semifinali/",
+        "keywords": [
+            "new york",
+            "jannik sinner",
+            "daniil medvedev",
+            "us open",
+            "tennis",
+            "usa",
+            "sport"
+        ],
+        "creator": [
+            "Alessandro D’Amato"
+        ],
+        "video_url": null,
+        "description": "Sfiderà domani il 22enne britannico Jack Draper, 25mo della classifica Atp.L'articolo Jannik Sinner batte Medvedev e va in semifinale agli Us Open per la prima volta in carriera proviene da Open.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:04:19",
+        "pubDateTZ": "UTC",
+        "image_url": "https://static.open.online/wp-content/uploads/2024/09/jannik-sinner-medvedev-semifinali-us-open.jpg",
+        "source_id": "open",
+        "source_priority": 1266079,
+        "source_name": "Open",
+        "source_url": "https://www.open.online",
+        "source_icon": "https://i.bytvi.com/domain_icons/open.png",
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "sports"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "600cda79400999dcc656a20804dbeaeb",
+        "title": "Hanno Parigi nel cuore. Gigi e Gigio ripartono da lì",
+        "link": "https://www.ilgiornale.it/news/sport/hanno-parigi-nel-cuore-gigi-e-gigio-ripartono-l-2365132.html",
+        "keywords": [
+            "calcio"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Marcello Di Dio)"
+        ],
+        "video_url": null,
+        "description": "Buffon, ora ds azzurro, ha giocato un anno nel Psg. Donnarumma contro la Francia ritrova Mbappé",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725518762-ajax-request.jpg?_=1725518762",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "d4ea1cbee3f4c2b9d2923c5d3f0f2f6d",
+        "title": "Pure \"Jouer avec le feu\" ci spiega che essere di destra è un problema",
+        "link": "https://www.ilgiornale.it/news/pure-jouer-avec-feu-ci-spiega-che-essere-destra-problema-2365128.html",
+        "keywords": [
+            "cinema"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Pedro Armocida)"
+        ],
+        "video_url": null,
+        "description": "Le sorelle Coulin indagano sul rapporto tra un padre sindacalista e il figlio \"degenere\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725518142-azg8rw6hcapkobidai8q-lapresse.jpeg?_=1725518142",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "f089201d494c3391c5b8a9fb1a8d6ca0",
+        "title": "Sangiuliano ha pagato di tasca propria aerei e treni per la Boccia. Ecco tutte le prove",
+        "link": "https://www.ilgiornale.it/news/politica/sangiuliano-ha-pagato-tasca-propria-aerei-e-treni-boccia-2365104.html",
+        "keywords": [
+            "governo"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Massimo Malpica)"
+        ],
+        "video_url": null,
+        "description": "Gli estratti conto confermano la versione del ministro: lo Stato non ha speso un euro",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725509893-azg4quj9dnz0qsstodum-fotogramma.jpeg?_=1725509893",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "dd3583af5d691ba71189001c9d9fe2d2",
+        "title": "Errani-Vavassori, un doppio misto per rifare la storia in America",
+        "link": "https://www.ilgiornale.it/news/sport/errani-vavassori-doppio-misto-rifare-storia-america-2365137.html",
+        "keywords": [
+            "tennis"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Marco Lombardo)"
+        ],
+        "video_url": null,
+        "description": "In caso di vittoria, sarebbe la prima volta di una coppia tutta italiana, nata per caso in vista dei Giochi",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725519423-22496560-large.jpg?_=1725519423",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "461e01419644cbf15d8c1101e8dc613d",
+        "title": "\"Al Mondiale con Marquez ora ci crediamo davvero\"",
+        "link": "https://www.ilgiornale.it/news/sport/mondiale-marquez-ora-ci-crediamo-davvero-2365138.html",
+        "keywords": [
+            "motori"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Maria Guidotti)"
+        ],
+        "video_url": null,
+        "description": "La guida del Team Gresini alla vigilia di Misano: \"L'incidente tra Bagnaia e Alex? Chiarito tutto...\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725519555-19391635-large.jpg?_=1725519555",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "0fb11d24fa19bdf11607c6515e9ec08f",
+        "title": "Draghi: servono riforme mai viste in Ue",
+        "link": "https://www.ilgiornale.it/news/politica/draghi-servono-riforme-mai-viste-ue-2365109.html",
+        "keywords": [
+            "europa"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Francesco Giubilei)"
+        ],
+        "video_url": null,
+        "description": "La ricetta dell'ex premier: innovazione, energia e tecnologie al centro del rapporto",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/04/17/1713328075-20671554-large.jpg?_=1713328075",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "16fdad5d14f41909ebc7ae94107973bf",
+        "title": "\"Il mio gemello Greg compie 30 anni. Regalo? Spero di continuare insieme...\"",
+        "link": "https://www.ilgiornale.it/news/sport/mio-gemello-greg-compie-30-anni-regalo-spero-continuare-2365135.html",
+        "keywords": [
+            "altri sport"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Sergio Arcobelli)"
+        ],
+        "video_url": null,
+        "description": "L'azzurro e il compleanno di Paltrinieri: \"Amici davvero\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725519209-22543904-large.jpg?_=1725519209",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "216c58b5fa6631ecef155162c28417b6",
+        "title": "Il ritorno del nuovo Joker è tutta un'altra musica",
+        "link": "https://www.ilgiornale.it/news/ritorno-nuovo-joker-tutta-unaltra-musica-2365127.html",
+        "keywords": [
+            "cinema"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Alessandro Gnocchi)"
+        ],
+        "video_url": null,
+        "description": "Euforia per Lady Gaga e Joaquin Phoenix. Il regista Todd Phillips: \"È un sequel audace\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725518214.jpeg?_=1725518214",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "3863321d32b5a9cab21ce0ac22e15ebf",
+        "title": "Ritorno sulla terra per i chip Nvidia",
+        "link": "https://www.ilgiornale.it/news/economia/ritorno-sulla-terra-i-chip-nvidia-2365123.html",
+        "keywords": [
+            "aziende"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Titta Ferraro)"
+        ],
+        "video_url": null,
+        "description": "In cinque sedute bruciati 460 miliardi di capitalizzazione. E parte l'indagine antitrust",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/08/29/1724910467-22496807-large.jpg?_=1724910467",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "458be20f9201f971812f3d32a0921cc3",
+        "title": "Crisi d'impresa, via la revoca automatica dei prestiti bancari",
+        "link": "https://www.ilgiornale.it/news/politica/crisi-dimpresa-revoca-automatica-dei-prestiti-bancari-2365107.html",
+        "keywords": [
+            "governo"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Felice Manti)"
+        ],
+        "video_url": null,
+        "description": "In Cdm le nuove modifiche al decreto del 2019, a tutela delle imprese e dei posti di lavoro",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725510789-bermix-studio-w3ecsrsvudq-unsplash.jpg?_=1725510789",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "7144129099bd4147e2f822516b4012fb",
+        "title": "In \"Diva futura\" il porno che non esaltava la violenza",
+        "link": "https://www.ilgiornale.it/news/diva-futura-porno-che-non-esaltava-violenza-2365129.html",
+        "keywords": [
+            "cinema"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Pedro Armocida)"
+        ],
+        "video_url": null,
+        "description": "L'epoca di Moana e Cicciolina diventa la radiografia di una società che teneva nascosto il \"desiderio\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725518376-azg-pszjcapkobidajh6.jpeg?_=1725518376",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "84160c611a9fa68cb885ef90678c72ad",
+        "title": "\"Sognare in grande: è l'insegnamento di Silvio Berlusconi\"",
+        "link": "https://www.ilgiornale.it/news/politica/sognare-grande-linsegnamento-silvio-berlusconi-2365110.html",
+        "keywords": [
+            "interni"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Pier Francesco Borgia)"
+        ],
+        "video_url": null,
+        "description": "Benigni (Fi) anticipa i temi della tre giorni di Bellaria. Lutto per la morte del giovane Mancini",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725512223-22529945-large.jpg?_=1725512223",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "bbfc293dd8ea89be21090ae2d37fcdb3",
+        "title": "L'ironia noir brilla sull'oro di Rigi...",
+        "link": "https://www.ilgiornale.it/news/sport/colore-scherza-su-razzismo-e-disabilit-2365134.html",
+        "keywords": [
+            "storie"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Nino Materi)"
+        ],
+        "video_url": null,
+        "description": "È di colore ma scherza su razzismo e disabilità",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725519049-ajax-request.jpg?_=1725519049",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "072fd2c6e94e48960eb2b44d760ca659",
+        "title": "Altra strage di civili, proteste di piazza: si tratti",
+        "link": "https://www.ilgiornale.it/news/politica/altra-strage-civili-proteste-piazza-si-tratti-2365113.html",
+        "keywords": [
+            "guerra"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Luigi Guelpa)"
+        ],
+        "video_url": null,
+        "description": "Raid a Leopoli, 7 morti e 70 feriti. Rabbia e cortei: \"Stop al massacro\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725512739-ajax-request.jpg?_=1725512739",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "674461734f0eb24c435e95eca32213bd",
+        "title": "\"Sì, avevamo una relazione. Ho dato le dimissioni: respinte\"",
+        "link": "https://www.ilgiornale.it/news/politica/ministro-cultura-2365105.html",
+        "keywords": [
+            "governo"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Pasquale Napolitano)"
+        ],
+        "video_url": null,
+        "description": "Il titolare della Cultura al Tg1: \"Non sono ricattabile\". La Boccia insiste con i post allusivi e lo contesta: \"Iniziamo a dire bugie!\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725509671-ajax-request.jpg?_=1725509671",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "9cd5e4ab8b4d71d3b9500781595860eb",
+        "title": "Da Voltaire a Baunov, il canone è questo",
+        "link": "https://www.ilgiornale.it/news/oggi-debutto-libreria-nuova-casa-editrice-2365125.html",
+        "keywords": [
+            "letteratura"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Redazione)"
+        ],
+        "video_url": null,
+        "description": "Oggi il debutto in libreria della nuova casa editrice",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/06/25/1719315252-433a26e0-a2a0-4660-9fc9-f42e0456afb1.jpg?_=1719315564",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "d6f24c55b5990ac6cf61614105550b69",
+        "title": "\"Senza un'altra Cig a fine anno si chiude\"",
+        "link": "https://www.ilgiornale.it/news/economia/senza-unaltra-cig-fine-anno-si-chiude-2365122.html",
+        "keywords": [
+            "aziende"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Pierluigi Bonora)"
+        ],
+        "video_url": null,
+        "description": "Borgomeo (Unindustria Cassino) chiama gli industriali automotive alla mobilitazione",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725515780-22623431-large.jpg?_=1725515780",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "f9e3776a0af9f5bd5911c39cdf527aa8",
+        "title": "La strage in famiglia. \"Ho agito d'impulso\". I nonni: \"Ci saremo\"",
+        "link": "https://www.ilgiornale.it/news/politica/strage-famiglia-ho-agito-dimpulso-i-nonni-ci-saremo-2365120.html",
+        "keywords": [
+            "cronaca nera"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Cristina Bassi)"
+        ],
+        "video_url": null,
+        "description": "Il nodo premeditazione: \"Se avessi riflettuto non avrei ucciso\". Oggi dal gip",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/03/1725336690-azgxjh6bcapkobidag64-fotogramma.jpeg?_=1725336690",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "9e8a2ddbf323dbd2dc09341fce0bc395",
+        "title": "L'orgoglio di bronzo dell'infinita Bebe. \"Bellissimo lo stesso\"",
+        "link": "https://www.ilgiornale.it/news/sport/lorgoglio-bronzo-dellinfinita-bebe-bellissimo-stesso-2365136.html",
+        "keywords": [
+            "altri sport"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Sergio Arcobelli)"
+        ],
+        "video_url": null,
+        "description": "La Vio scherza: \"C'è la gara a squadre, incrociate le dita per me, io non posso...\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725519324-22622331-large.jpg?_=1725519324",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "17f6fab7f115ff0183e944ff1a12218f",
+        "title": "L'invito di Meloni ai suoi. \"Ora basta passi falsi\". Poi applausi a Fitto in Ue. \"Falso che siamo isolati\"",
+        "link": "https://www.ilgiornale.it/news/politica/linvito-meloni-ai-suoi-ora-basta-passi-falsi-poi-applausi-2365106.html",
+        "keywords": [
+            "governo"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Adalberto Signore)"
+        ],
+        "video_url": null,
+        "description": "Ieri l'esecutivo Fdi. Interviene La Russa, Arianna non parla. La premier: \"Stiamo facendo la storia\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725510133-azg8jv4kcapkobidai5q-lapresse.jpeg?_=1725510133",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "3efb254ed0e79634eea18780c6a7ae49",
+        "title": "Ecco gli autori che ci aiutano a capire il vero capitalismo",
+        "link": "https://www.ilgiornale.it/news/ecco-autori-che-ci-aiutano-capire-vero-capitalismo-2365126.html",
+        "keywords": [
+            "letteratura"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Carlo Lottieri)"
+        ],
+        "video_url": null,
+        "description": "Da François Furet a Deirdre McCloskey: c'è ancora bisogno di ascoltare alcuni maestri del pensiero...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725516835-2522px-deirdre-mccloskey-15579711609.jpg?_=1725516835",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "1941877ea4e163178462fc575ae0f3b5",
+        "title": "L'uscita da signore di Szczesny merita la stella. \"Scelta della società, ma tiferò sempre Juve\"",
+        "link": "https://www.ilgiornale.it/news/sport/luscita-signore-szczesny-merita-stella-scelta-societ-tifer-2365133.html",
+        "keywords": [
+            "calcio"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Domenico Latagliata)"
+        ],
+        "video_url": null,
+        "description": "\"Non avrei mai immaginato di trovarmi fuori dal progetto...\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725518920-azg9gs0dcapkobidajop-alfredo-falcone-lapresse.jpeg?_=1725518920",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "42d3c4fe8592b9fbf0c1397e5ec573f7",
+        "title": "Banca Progetto passa al fondo Centerbridge",
+        "link": "https://www.ilgiornale.it/news/economia/banca-progetto-passa-fondo-centerbridge-2365124.html",
+        "keywords": [
+            "banche"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Marcello Astorri)"
+        ],
+        "video_url": null,
+        "description": "Assegno da oltre mezzo miliardo per Oaktree",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725516251-agenzia-fotogramma-fgr1781981.jpg?_=1725516251",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "70075f8fe5b0dc4f3b03e52300c93d62",
+        "title": "Volkswagen, scatta l'allarme: \"Auto invendute pari a due fabbriche\"",
+        "link": "https://www.ilgiornale.it/news/economia/vw-auto-invendute-pari-due-fabbriche-2365121.html",
+        "keywords": [
+            "aziende"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Pierluigi Bonora)"
+        ],
+        "video_url": null,
+        "description": "Il cfo Volkswagen: \"Produciamo 500mila macchine di troppo\". È scontro sui tagli",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725515582-22621731-large.jpg?_=1725515582",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "0fab0a3a5e35497b8aa1110685032e4c",
+        "title": "Il ragazzo di Chernobyl con un passato in Italia. Paga i \"no\" di Cina e Nato",
+        "link": "https://www.ilgiornale.it/news/politica/ragazzo-chernobyl-passato-italia-paga-i-no-cina-e-nato-2365115.html",
+        "keywords": [
+            "guerra"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Fausto Biloslavo)"
+        ],
+        "video_url": null,
+        "description": "Un ritratto del ministro ucraino uscente e della sua storia",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725512875-ajax-request.jpg?_=1725512875",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "65627027b24887762856d35987b79a2c",
+        "title": "Scatta a 10mila euro il tetto al contante per l'import-export. E c'è la stretta sull'oro",
+        "link": "https://www.ilgiornale.it/news/politica/scatta-10mila-euro-tetto-contante-limport-export-e-c-stretta-2365108.html",
+        "keywords": [
+            "governo"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Gian Maria De Francesco)"
+        ],
+        "video_url": null,
+        "description": "Per il contrasto al riciclaggio si estendono i controlli anche sulle carte prepagate",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725511054-agenzia-fotogramma-fgr288160.jpg?_=1725511054",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "03a2d9e1acbe1fd87958a4d81a6e7a89",
+        "title": "Via Kuleba, ribaltone Kiev. \"Ora serve nuova energia\"",
+        "link": "https://www.ilgiornale.it/news/politica/kuleba-ribaltone-kiev-ora-serve-nuova-energia-2365112.html",
+        "keywords": [
+            "guerra"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Matteo Basile)"
+        ],
+        "video_url": null,
+        "description": "Lascia anche il ministro degli Esteri. Zelensky: \"Così ci rafforziamo\". Mosca: \"È autunno, cadono le foglie. Negoziati? Non cambia nulla\"",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/06/14/1718379953-22307781-large.jpg?_=1718379953",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "349d4626e44467aa32ad6cf50ce0cd05",
+        "title": "Tasse, Pontida, processo: i tre fronti caldi di Salvini",
+        "link": "https://www.ilgiornale.it/news/politica/tasse-pontida-processo-i-tre-fronti-caldi-salvini-2365111.html",
+        "keywords": [
+            "governo"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Nicolò Rubeis)"
+        ],
+        "video_url": null,
+        "description": "Il leader fissa le priorità nel vertice della Lega. Open Arms, il 18 ottobre mobilitazione a Palermo",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/05/1725512321-azgyhjw1capkobidahki-fotogramma.jpeg?_=1725512321",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "ad04f240cb182bd3aa51d77f462a29df",
+        "title": "Torna \"Temptation Island\" a riscaldare il settembre Tv",
+        "link": "https://www.ilgiornale.it/news/torna-temptation-island-riscaldare-settembre-tv-2365131.html",
+        "keywords": [
+            "tv"
+        ],
+        "creator": [
+            "redazione@ilgiornale-web.it (Laura Rio)"
+        ],
+        "video_url": null,
+        "description": "Il programma è stato il caso dell'estate con share da capogiro. Ora altre coppie sono pronte a esplodere",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 04:00:02",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2023/08/01/1690873319-filippo-bisciglia.jpg?_=1690873319",
+        "source_id": "ilgiornale",
+        "source_priority": 72003,
+        "source_name": "Ilgiornale Il",
+        "source_url": "https://www.ilgiornale.it",
+        "source_icon": null,
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "0d182baa6c413325075236129b9174fd",
+        "title": "Sinner batte Medvedev e conquista la sua prima semifinale agli Us Open",
+        "link": "https://www.ilfattoquotidiano.it/2024/09/05/us-open-sinner-batte-medvedev-e-conquista-la-semifinale/7681355/",
+        "keywords": [
+            "us open",
+            "tennis",
+            "jannik sinner",
+            "sport"
+        ],
+        "creator": [
+            "Giacomo Corsetti"
+        ],
+        "video_url": null,
+        "description": "Jannik Sinner batte Daniil Medvedev in quattro set e conquista la semifinale degli Us Open per la prima volta in carriera. Il numero uno al mondo ha chiuso il match – considerato da molti una finale anticipata viste le eliminazioni eccellenti di Novak Djokovic, Carlos Alcaraz e Alexander Zverev – con un 62 16 61 [...]L'articolo Sinner batte Medvedev e conquista la sua prima semifinale agli Us Open proviene da Il Fatto Quotidiano.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 03:57:49",
+        "pubDateTZ": "UTC",
+        "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/05/Sinner-Medvedev-Us-Opern-1-1050x551.jpg",
+        "source_id": "ilfattoquotidiano",
+        "source_priority": 103356,
+        "source_name": "Il Fatto Quotidiano",
+        "source_url": "https://www.ilfattoquotidiano.it",
+        "source_icon": "https://i.bytvi.com/domain_icons/ilfattoquotidiano.png",
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "442758746792b851d909452cc269ef61",
+        "title": "Jannik Sinner è in semifinale agli US Open di tennis, dopo aver battuto Daniil Medvedev",
+        "link": "https://www.ilpost.it/2024/09/05/sinner-us-open-semifinale-medvedev/",
+        "keywords": [
+            "sport",
+            "us open",
+            "jannik sinner",
+            "tennis",
+            "bits",
+            "daniil medvedev"
+        ],
+        "creator": [
+            ""
+        ],
+        "video_url": null,
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 03:55:34",
+        "pubDateTZ": "UTC",
+        "image_url": "https://www.ilpost.it/wp-content/uploads/2024/09/05/1725507773-GettyImages-2170265193.jpg",
+        "source_id": "ilpost",
+        "source_priority": 350151,
+        "source_name": "Il Post",
+        "source_url": "https://www.ilpost.it",
+        "source_icon": "https://i.bytvi.com/domain_icons/ilpost.png",
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "sports"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "a9efba7c4a14a48e9ace468ce2ff9df6",
+        "title": "L’auto blu, il peculato e la telefonata con la moglie registrata: così il caso Boccia rischia di diventare un’inchiesta su Sangiuliano",
+        "link": "https://www.open.online/2024/09/05/gennaro-sangiuliano-maria-rosaria-boccia-federica-corsini-peculato/",
+        "keywords": [
+            "lazio",
+            "roma",
+            "gennaro sangiuliano",
+            "inchieste",
+            "social media",
+            "influencer",
+            "peculato",
+            "fdi",
+            "governo meloni",
+            "attualità"
+        ],
+        "creator": [
+            "Alessandro D’Amato"
+        ],
+        "video_url": null,
+        "description": "Meloni non vuole farsi «buttare fuori» un ministro «dai giornali di sinistra e da Dagospia. Ma a Roma arriva un esposto sul ministro L'articolo L’auto blu, il peculato e la telefonata con la moglie registrata: così il caso Boccia rischia di diventare un’inchiesta su Sangiuliano proviene da Open.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2024-09-05 03:50:19",
+        "pubDateTZ": "UTC",
+        "image_url": "https://static.open.online/wp-content/uploads/2024/09/gennaro-sangiuliano-maria-rosaria-boccia-moglie-federica-corsini.jpg",
+        "source_id": "open",
+        "source_priority": 1266079,
+        "source_name": "Open",
+        "source_url": "https://www.open.online",
+        "source_icon": "https://i.bytvi.com/domain_icons/open.png",
+        "language": "italian",
+        "country": [
+            "italy"
+        ],
+        "category": [
+            "top"
+        ],
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "duplicate": false
+    },
+    {
         "article_id": "3f052b39b0bd4d54775a06d40fb30712",
         "title": "Le foto “delicate” e gli audio di Giorgia Meloni: perché il caso Sangiuliano-Boccia fa tremare il governo",
         "link": "https://www.open.online/2024/09/05/gennaro-sangiuliano-maria-rosaria-boccia-foto-delicate-audio-video-giorgia-meloni/",
@@ -9666,1386 +11073,6 @@
         "pubDate": "2024-09-04 05:00:53",
         "pubDateTZ": "UTC",
         "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2023/12/31/1704003075-branko-cover-foglio.png?_=1704003075",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "935bdbb6c8c20608c61978b959682356",
-        "title": "Le imitazioni, il \"sandwich\", lo scandalo sexy. Quando Gigi Sabani venne arrestato",
-        "link": "https://www.ilgiornale.it/news/serialit/imitazioni-sandwich-scandalo-sexy-quando-gigi-sabani-venne-2364185.html",
-        "keywords": [
-            "serialità"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Novella Toloni)"
-        ],
-        "video_url": null,
-        "description": "Diciassette anni fa moriva Gigi Sabani. Il popolare conduttore romano è stato uno dei protagonisti della tv degli anni '80 e '90 con oltre trentaquattro programmi condotti e decine di imitazioni fatte",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 05:00:32",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/02/1725267608-agenzia-fotogramma-ipa137250.jpg?_=1725267608",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "39455cd075f1aed08a4093d44422d825",
-        "title": "Cucinare e lavare ortaggi e frutta in lavastoviglie e lavatrice: l'ultima follia social",
-        "link": "https://www.ilgiornale.it/news/attualit/cucinare-e-lavare-ortaggi-e-frutta-lavastoviglie-e-lavatrice-2364520.html",
-        "keywords": [
-            "attualità"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Novella Toloni)"
-        ],
-        "video_url": null,
-        "description": "Cucinare e lavare le verdure nella lavastoviglie e nella lavatrice è l'ultima pazzia che sta dilagando sul web. Sono migliaia i video diventati virali sui social network su questa strana tendenza",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 05:00:23",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/03/1725349741-dish-side.jpg?_=1725349741",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "b52b7f7e24cc9c4dc83c1393c2ec2465",
-        "title": "La fabbrica segreta, i lanciatori atomici e i 49 veicoli: svelata l'ultima mossa di Kim",
-        "link": "https://www.ilgiornale.it/news/difesa/fabbrica-segreta-produrre-lanciamissili-lultima-mossa-kim-2364143.html",
-        "keywords": [
-            "difesa"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Federico Giuliani)"
-        ],
-        "video_url": null,
-        "description": "In una fabbrica vecchia decenni e situata nei pressi di Pyongyang, la Corea del Nord di Kim Jong Un avrebbe iniziato a produrre lanciatori per missili nucleari",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 05:00:21",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/02/1725262554-lanciamissili.jpeg?_=1725262554",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "b70a68aec6e648b63bd4c0bffd8b780c",
-        "title": "Il Catarratto lucido di Cortese, un piccolo gioiello",
-        "link": "https://www.ilgiornale.it/news/cucina/catarratto-lucido-cortese-piccolo-gioiello-2364635.html",
-        "keywords": [
-            "cucina"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Andrea Cuomo)"
-        ],
-        "video_url": null,
-        "description": "Azienda biologica nel territorio di Vittoria, nel Sud della Sicilia, di proprietà dei fratelli Stefano e Marina Girelli, punta tutto sulla piena espressione del territorio. La linea Nostru presenta una collezione di vitigni autoctoni tra i quali spicca per acidità e mineralità questo bianco dalla grande versatilità e dal prezzo assai conveniente",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 05:00:19",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/03/1725374155-autostrada-232-29.jpg?_=1725374155",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "b80b5d608bf446ee147f7c8593e0e1a7",
-        "title": "Droni e bombardieri Tu-95ms: nuovi raid russi su Kiev e altre città",
-        "link": "https://www.ilgiornale.it/news/guerra/droni-e-bombardieri-tu-95ms-nuovi-raid-russi-su-kiev-e-altre-2364808.html",
-        "keywords": [
-            "guerra"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Alberto Bellotto)"
-        ],
-        "video_url": null,
-        "description": "Attacchi notturni sulla capitale russa, Leopoli e altre città. Secondo le prime stime ci sarebbero già 2 morti e una ventina di feriti",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:59:14",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725425834-2024-09-04-065642.jpg?_=1725425834",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "63de8a588e0a9cf613645a2091cf9f98",
-        "title": "Maria Rosaria Boccia su Instagram: l’audio della nomina e i biglietti pagati dal ministero – Il video",
-        "link": "https://www.open.online/2024/09/04/maria-rosaria-boccia-instagram-audio-ministero-biglietti-video/",
-        "keywords": [
-            "governo meloni",
-            "gennaro sangiuliano",
-            "influencer",
-            "instagram",
-            "video",
-            "politica",
-            "social media"
-        ],
-        "creator": [
-            "Redazione"
-        ],
-        "video_url": null,
-        "description": "Il post dell'influencer non consigliera smentisce Sangiuliano L'articolo Maria Rosaria Boccia su Instagram: l’audio della nomina e i biglietti pagati dal ministero – Il video proviene da Open.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:42:28",
-        "pubDateTZ": "UTC",
-        "image_url": "https://static.open.online/wp-content/uploads/2024/08/gennaro-sangiuliano-maria-rosaria-boccia-1.jpg",
-        "source_id": "open",
-        "source_priority": 1266079,
-        "source_name": "Open",
-        "source_url": "https://www.open.online",
-        "source_icon": "https://i.bytvi.com/domain_icons/open.png",
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "21275a2a9d9e55242c089fd88ff09e52",
-        "title": "«Con Renzi si perde»: il sondaggio del Fatto sull’alleanza, addio a un elettore su quattro",
-        "link": "https://www.open.online/2024/09/04/sondaggio-matteo-renzi-alleanza-italia-viva-centrosinistra/",
-        "keywords": [
-            "sinistra italiana",
-            "verdi",
-            "pd",
-            "sondaggi",
-            "matteo renzi",
-            "m5s",
-            "azione",
-            "italia viva",
-            "politica",
-            "centrosinistra"
-        ],
-        "creator": [
-            "Alessandro D’Amato"
-        ],
-        "video_url": null,
-        "description": "Il 59% dell’elettorato complessivo si dice “contrario” all’alleanza elettorale con Italia VivaL'articolo «Con Renzi si perde»: il sondaggio del Fatto sull’alleanza, addio a un elettore su quattro proviene da Open.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:16:26",
-        "pubDateTZ": "UTC",
-        "image_url": "https://static.open.online/wp-content/uploads/2024/05/matteo-renzi-meloni-referendum.jpg",
-        "source_id": "open",
-        "source_priority": 1266079,
-        "source_name": "Open",
-        "source_url": "https://www.open.online",
-        "source_icon": "https://i.bytvi.com/domain_icons/open.png",
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "c85ae8daa2776470140e54fd6da97121",
-        "title": "L'amore per la moda e per i palazzi romani. L'\"ascesa\" di Boccia tra gossip e allusioni",
-        "link": "https://www.ilgiornale.it/news/politica/lamore-moda-e-i-palazzi-romani-l-ascesa-boccia-gossip-e-2364719.html",
-        "keywords": [
-            "interni"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Pasquale Napolitano)"
-        ],
-        "video_url": null,
-        "description": "Quarantunenne, social e caparbia. È stata diffidata dalla Camera della Moda",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725423406-ajax-request.jpg?_=1725423406",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "b9bffd5d2ff9f2e12392ef14afdbf0a6",
-        "title": "Rivoluzione Nutella: il business milionario della crema vegana",
-        "link": "https://www.ilgiornale.it/news/politica/rivoluzione-nutella-business-milionario-crema-vegana-2364742.html",
-        "keywords": [
-            "attualità"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Andrea Cuomo)"
-        ],
-        "video_url": null,
-        "description": "Arriva il prodotto \"plant-based\". Il mercato italiano? Sono i 12,5 milioni di \"flexitariani\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/03/1725379016-schermata-2024-09-03-175617.png?_=1725379016",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "ffd444278a531d3b68cf435633cc3e02",
-        "title": "Cirielli difendeil ministro: \"Un caso costruito sul nulla\". Il Pd attacca: riferisca in aula",
-        "link": "https://www.ilgiornale.it/news/politica/cirielli-difende-ministro-caso-costruito-sul-nulla-pd-2364717.html",
-        "keywords": [
-            "governo"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Pier Francesco Borgia)"
-        ],
-        "video_url": null,
-        "description": "FdI: \"Vogliono delegittimare il governo. Peggio i collaboratori della sinistra...\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725423104-20417987-large.jpg?_=1725423104",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "93dab46c0d203e2cc975a38d325365dd",
-        "title": "Il ritorno di Draghi in Europa. Strigliata su difesa e sicurezza",
-        "link": "https://www.ilgiornale.it/news/politica/ritorno-draghi-europa-strigliata-su-difesa-e-sicurezza-2364720.html",
-        "keywords": [
-            "europa"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Francesco Giubilei)"
-        ],
-        "video_url": null,
-        "description": "Oggi relazione di SuperMario sulla competitività: \"Poche spese e con le guerre alle porte l'Ue non tiene il passo con i suoi concorrenti globali\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/02/28/1709100055-21649688-large.jpg?_=1709100055",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "7bf26ccf45833f10eee0abc296e9e8c2",
-        "title": "Riforma, il leader delle toghe vacilla",
-        "link": "https://www.ilgiornale.it/news/politica/riforma-leader-delle-toghe-vacilla-2364724.html",
-        "keywords": [
-            "magistratura"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Felice Manti)"
-        ],
-        "video_url": null,
-        "description": "Al dibattito alla Festa del Pd a Reggio, Santalucia all'angolo sui nodi della giustizia",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725424076-ajax-request.jpg?_=1725424076",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "1375bc94aafff448ae56b9af5f30e825",
-        "title": "La Nazionale chiama chi gioca. Ma in A solo un terzo è italiano",
-        "link": "https://www.ilgiornale.it/news/sport/nazionale-chiama-chi-gioca-solo-terzo-italiano-2364759.html",
-        "keywords": [
-            "calcio"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Marcello Di Dio)"
-        ],
-        "video_url": null,
-        "description": "Tra i 23 azzurri solo Calafiori e Frattesi con meno di 90'. In campionato però il 66% degli schierati è straniero",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/06/29/1719684277-spalletti.jpg?_=1719684277",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "9adc09ec3ac5c618172b362dff1ec09c",
-        "title": "Parte bene Del Debbio e De Martino vince la sfida",
-        "link": "https://www.ilgiornale.it/news/parte-bene-debbio-e-de-martino-vince-sfida-2364753.html",
-        "keywords": [
-            "tv"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Laura Rio)"
-        ],
-        "video_url": null,
-        "description": "Funziona l'esordio di \"4 di sera\" con l'intervista a Meloni. Buono il ritorno di \"Quarta Repubblica\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/08/30/1724995244-12310151-large.jpg?_=1724995244",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "5275848b8e212af2da8f5cbd8836c39e",
-        "title": "Ci voleva quel geniaccio di Du Welz per raccontare (bene) il Mostro di Marcinelle",
-        "link": "https://www.ilgiornale.it/news/ci-voleva-geniaccio-du-welz-raccontare-bene-mostro-2364750.html",
-        "keywords": [
-            "cinema"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Pedro Armocida)"
-        ],
-        "video_url": null,
-        "description": "In \"Maldoror\" si ricostruisce un'epoca tra horror e riscatto",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725428293-6463499-large.jpg?_=1725428293",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "9d2c745cad2b7ae46c56288b883b2014",
-        "title": "Razzi su Poltava: è strage. \"La feccia russa pagherà\". A Kiev è caos dimissioni",
-        "link": "https://www.ilgiornale.it/news/politica/razzi-su-poltava-strage-feccia-russa-pagher-kiev-caos-2364735.html",
-        "keywords": [
-            "guerra"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Luigi Guelpa)"
-        ],
-        "video_url": null,
-        "description": "Colpiti ospedale e scuola militare: 53 morti e 271 feriti. Lasciano una vicepremier e 3 ministri ucraini",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725425495-gwkuhlwwmaazjpu.jpg?_=1725425495",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "7330176d9886b0e178b124a1c2fe0964",
-        "title": "Le \"Fiamme dal passato\" accendono le guerre di oggi",
-        "link": "https://www.ilgiornale.it/news/fiamme-passato-accendono-guerre-oggi-2364748.html",
-        "keywords": [
-            "letteratura"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Matteo Sacchi)"
-        ],
-        "video_url": null,
-        "description": "Dall'Ucraina a Gaza, passando per la storia del '900: Paolo Mieli ragiona sui nuovi conflitti",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/07/04/1720100502-22400154-large.jpg?_=1720100502",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "c227df8eb9d3a61bf206fa686ddbdfbf",
-        "title": "Il cerotto \"smart\" controlla la salute",
-        "link": "https://www.ilgiornale.it/news/politica/nuovo-strumento-alimentato-sudore-2364743.html",
-        "keywords": [
-            "innovazione"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Redazione)"
-        ],
-        "video_url": null,
-        "description": "Il nuovo strumento alimentato dal sudore",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725426918-ajax-request.jpg?_=1725426918",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "9250d2793142d7aca5a5415a12f6e2f4",
-        "title": "Due milioni di ragazzi con problemi psichici. Pochi medici e reparti. \"Senza cure 8 su 10\"",
-        "link": "https://www.ilgiornale.it/news/politica/due-milioni-ragazzi-problemi-psichici-pochi-medici-e-reparti-2364739.html",
-        "keywords": [
-            "cronaca nera"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Maria Sorbi)"
-        ],
-        "video_url": null,
-        "description": "Mancano 300 neuropsichiatri e 10mila posti letto. \"Così il disagio non viene intercettato\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/02/1725290483-azgxjtymcapkobidag61-fotogramma.jpg?_=1725290483",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "8ecc3fab08c3bcc592f6d3b58cd1c89e",
-        "title": "Il Milan fa quadrato tra Ibra, Fonseca e il cooling break",
-        "link": "https://www.ilgiornale.it/news/sport/milan-fa-quadrato-ibra-fonseca-e-cooling-break-2364760.html",
-        "keywords": [
-            "calcio"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Franco Ordine)"
-        ],
-        "video_url": null,
-        "description": "Furlani e la falsa partenza rossonera: \"Soddisfatti del tecnico, la squadra è con lui\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725430066-azgtjx-pcapkobidagnw-lapresse.jpeg?_=1725430066",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "350380a26fbe67275375a01598304b09",
-        "title": "Cade dall'altalena e muore a 6 anni: tragedia al parco davanti alla mamma",
-        "link": "https://www.ilgiornale.it/news/politica/cade-dallaltalena-e-muore-6-anni-tragedia-parco-davanti-2364741.html",
-        "keywords": [
-            "cronaca nera"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Patricia Tagliaferri)"
-        ],
-        "video_url": null,
-        "description": "La piccola era in piedi su una struttura per disabili, è scivolata e ha battuto la testa. Aperta un'inchiesta per omicidio colposo",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725426634-ajax-request.jpg?_=1725426634",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "fef6dd5f012e55ef669e0fe66ab7cc4d",
-        "title": "E i militanti si raccomandano a Bonaccini: \"Campo largo sì, ma per favore senza Renzi\"",
-        "link": "https://www.ilgiornale.it/news/politica/e-i-militanti-si-raccomandano-bonaccini-campo-largo-s-favore-2364725.html",
-        "keywords": [
-            "interni"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Marco Leardi)"
-        ],
-        "video_url": null,
-        "description": "Il clima perplesso della base mentre assiste ai comizi tra un banchetto e l'altro: \"Altro che unità, occhio alle alleanze\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725424193-ajax-request.jpg?_=1725424193",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "6a4e86b0f16490a7d467f039403c293b",
-        "title": "Open Fiber, governo avanti tutta. \"Kkr pronta a rispettare il patto\"",
-        "link": "https://www.ilgiornale.it/news/economia/open-fiber-governo-avanti-tutta-kkr-pronta-rispettare-patto-2364744.html",
-        "keywords": [
-            "politica economica"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Marcello Astorri)"
-        ],
-        "video_url": null,
-        "description": "Il fondo americano nega di avere interessi nel fallimento dell'operazione. Eventuali rallentamenti non pregiudicheranno gli obblighi assunti con Tim",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725427178-20220720-63.jpg?_=1725427178",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "3c0038e33f2e6c9a23fc6168625c9be0",
-        "title": "L'ansia, il delitto e il pianto: \"Un atto di emancipazione\"",
-        "link": "https://www.ilgiornale.it/news/politica/lansia-delitto-e-pianto-atto-emancipazione-2364736.html",
-        "keywords": [
-            "cronaca nera"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Maria Sorbi)"
-        ],
-        "video_url": null,
-        "description": "Il ragazzo: \"Pensavo alla morte ma non a ucciderli. Volevo liberarmi dalla famiglia\". Le lacrime con il cappellano. \"Fatemi vedere il nonno\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725425630-azg4drvpdnz0qsstodrl-fotogramma.jpeg?_=1725425630",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "bc6954bc29bb3e314ccc09a8c6c96645",
-        "title": "Zelensky in crisi, è scontro anche con i suoi. E \"l'esiliato\" Zaluzhny è pronto a sostituirlo",
-        "link": "https://www.ilgiornale.it/news/politica/zelensky-crisi-scontro-anche-i-suoi-e-lesiliato-zaluzhny-2364733.html",
-        "keywords": [
-            "guerra"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Gian Micalessin)"
-        ],
-        "video_url": null,
-        "description": "Decisioni sbagliate e malumori. Dubbi anche in Occidente",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725425196-ajax-request.jpg?_=1725425196",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "678692ebf02b41a36e7c3274616ce863",
-        "title": "Eni e Snam a caccia di Co2. Primo progetto per catturarla",
-        "link": "https://www.ilgiornale.it/news/economia/eni-e-snam-caccia-co2-primo-progetto-catturarla-2364745.html",
-        "keywords": [
-            "politica economica"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Sofia Fraschini)"
-        ],
-        "video_url": null,
-        "description": "L'ossido prodotto dalla centrale di gas naturale è veicolato e stoccato offshore a quota tremila metri di profondità",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2022/10/29/1667020214-agenzia-fotogramma-fgr3641397.jpg?_=1667020214",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "b4d0bd4827ad7c286e65cf38d47e110c",
-        "title": "Sinner non si ferma. Nadal e Federer: \"Macché doping...\"",
-        "link": "https://www.ilgiornale.it/news/sport/sinner-non-si-ferma-nadal-e-federer-macch-doping-2364754.html",
-        "keywords": [
-            "tennis"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Giandomenico Tiseo)"
-        ],
-        "video_url": null,
-        "description": "Torna la sfida infinita con Medvedev. Rafa e Roger: fiducia, ma sulle regole...",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725429344-azg3fvowdnz0qsstoc9s.jpeg?_=1725429344",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "68e63fa27b295a0eeff2158288296f74",
-        "title": "Fitto vice esecutivo. Ora Meloni ci crede",
-        "link": "https://www.ilgiornale.it/news/politica/fitto-vice-esecutivo-ora-meloni-ci-crede-2364722.html",
-        "keywords": [
-            "europa"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Adalberto Signore)"
-        ],
-        "video_url": null,
-        "description": "Ue, a inizio ottobre gli \"esami\" dei commissari. Si punta alla \"non ostilità\" dei Socialisti (e del Pd)",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725423762-22534517-large.jpg?_=1725423762",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "0a91ecbdfdd631280734e2615f9d5431",
-        "title": "Ombre sulla cronista nei guai per stupro",
-        "link": "https://www.ilgiornale.it/news/politica/ombre-sulla-cronista-nei-guai-stupro-2364728.html",
-        "keywords": [
-            "interni"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Michel Dessì)"
-        ],
-        "video_url": null,
-        "description": "Sara Giudice dal ruolo di anti-Minetti all'indagine sui voti elettorali presi a Milano",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725424599-ajax-request.jpg?_=1725424599",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "245fa4143abf2ebd7fef297dac3baf29",
-        "title": "\"Harvest\", il film anti modernità che in realtà ce la fa apprezzare",
-        "link": "https://www.ilgiornale.it/news/harvest-film-anti-modernit-che-realt-ce-fa-apprezzare-2364752.html",
-        "keywords": [
-            "cinema"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Stenio Solinas)"
-        ],
-        "video_url": null,
-        "description": "La greca Tsangari racconta una comunità inglese del XVI secolo. Ma il risultato è molto al di sotto delle attese",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725428898-azg35lofdnz0qsstodft-lapresse.jpeg?_=1725428898",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "d058d31359e8742caa5328e00e8a67f0",
-        "title": "La maratoneta Rebecca bruciata viva dal fidanzato",
-        "link": "https://www.ilgiornale.it/news/sport/maratoneta-rebecca-bruciata-viva-fidanzato-2364755.html",
-        "keywords": [
-            "storie"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Stefano Arosio)"
-        ],
-        "video_url": null,
-        "description": "L'ugandese Cheptegei è grave. Aveva gareggiato ai Giochi di Parigi",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725429526-22618442-large.jpg?_=1725429526",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "5f5857b44ccae74081dccf23b7cd490b",
-        "title": "Mercato, 11mila i trasferimenti",
-        "link": "https://www.ilgiornale.it/news/sport/record-italia-ora-si-pensa-ai-rinnovi-2364761.html",
-        "keywords": [
-            "calcio"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Nicolò Schira)"
-        ],
-        "video_url": null,
-        "description": "Dopo il record, in Italia ora si pensa ai rinnovi",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/01/29/1706557903-ay1mydofwv2c010y8jnh-lapresse.jpg?_=1706557903",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "c6973add0590193efdfc59da1b2223ae",
-        "title": "Don Coluccia aggredito a Roma",
-        "link": "https://www.ilgiornale.it/news/politica/don-coluccia-aggredito-roma-2364726.html",
-        "keywords": [
-            "interni"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Redazione)"
-        ],
-        "video_url": null,
-        "description": "Lanci di bottiglie: lo salva la scorta",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725424351-21471129-large.jpg?_=1725424351",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "b89c92bd1ac34d4b87f28781608c148c",
-        "title": "\"Sempre più genitori aggrediti non denunciano per vergogna. Il 17enne si può recuperare insegnandogli cos'è il conflitto\"",
-        "link": "https://www.ilgiornale.it/news/politica/sempre-pi-genitori-aggrediti-non-denunciano-vergogna-17enne-2364738.html",
-        "keywords": [
-            "cronaca nera"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Serena Coppetti)"
-        ],
-        "video_url": null,
-        "description": "Il pedagogo: fenomeno in crescita difficile da scoprire. Qui un caso limite",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725426015-novara.jpeg?_=1725426015",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "da0bc14109baa66987d93cf0006e9c5c",
-        "title": "\"Accordi affossati da Netanyahu\". Il gelo di Biden, Bibi andrà all'Onu",
-        "link": "https://www.ilgiornale.it/news/politica/accordi-affossati-netanyahu-gelo-biden-bibi-andr-allonu-2364732.html",
-        "keywords": [
-            "guerra"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Valeria Robecco)"
-        ],
-        "video_url": null,
-        "description": "La Cnn: \"Negoziati naufragati per le parole sul corridoio Filadelfia\". Gli Usa: \"Ora l'intesa\". Il premier alle Nazioni Unite il 26 settembre",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725424856-azg0jhzqdnz0qsstocnt-associated-press-lapresse.jpeg?_=1725424856",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "c6adaccc410dde4aa8e48ae1e1f71141",
-        "title": "Commerzbank vendesi. Mps battuta sul tempo",
-        "link": "https://www.ilgiornale.it/news/economia/commerzbank-vendesi-mps-battuta-sul-tempo-2364747.html",
-        "keywords": [
-            "banche"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Gian Maria De Francesco)"
-        ],
-        "video_url": null,
-        "description": "Scholz ora spera in un incasso di 2,5 miliardi",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/05/08/1715148354-21426597-large.jpg?_=1715148354",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "6fc2c9f06948fab642cc453f21348a0b",
-        "title": "\"Moussa ci ha mostrato il coltello\"",
-        "link": "https://www.ilgiornale.it/news/politica/moussa-ci-ha-mostrato-coltello-2364740.html",
-        "keywords": [
-            "cronaca nera"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Antonio Borrelli)"
-        ],
-        "video_url": null,
-        "description": "La testimonianza: \"Ha fatto un commento, ha estratto la lama e se ne è andato\"",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/01/1725182650-azgnrxgvcapkobidafsb-fotogramma.jpg?_=1725182650",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "4d9998ab160eb2d4717bab57a416e535",
-        "title": "Hamas perde un altro capo. La madre di un ostaggio rifiuta la visita del premier",
-        "link": "https://www.ilgiornale.it/news/politica/hamas-perde-altro-capo-madre-ostaggio-rifiuta-visita-premier-2364730.html",
-        "keywords": [
-            "guerra"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Gaia Cesare)"
-        ],
-        "video_url": null,
-        "description": "Wadiyya eliminato in un raid a Gaza. Il 7 ottobre guidava i corpi d'élite. Folla in piazza a Tel Aviv",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/09/04/1725424983-1725356099-idf.png?_=1725424983",
-        "source_id": "ilgiornale",
-        "source_priority": 72003,
-        "source_name": "Ilgiornale Il",
-        "source_url": "https://www.ilgiornale.it",
-        "source_icon": null,
-        "language": "italian",
-        "country": [
-            "italy"
-        ],
-        "category": [
-            "top"
-        ],
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "43f9d08a9755d3064107b0a98a891b2f",
-        "title": "Il petrolio trascina i big dell'energia",
-        "link": "https://www.ilgiornale.it/news/economia/petrolio-trascina-i-big-dellenergia-2364746.html",
-        "keywords": [
-            "politica economica"
-        ],
-        "creator": [
-            "redazione@ilgiornale-web.it (Titta Ferraro)"
-        ],
-        "video_url": null,
-        "description": "Crescono i timori legati a mosse Opec+ e crisi della Cina",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2024-09-04 04:00:03",
-        "pubDateTZ": "UTC",
-        "image_url": "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/05/17/1715924824-21267321-large.jpg?_=1715924824",
         "source_id": "ilgiornale",
         "source_priority": 72003,
         "source_name": "Ilgiornale Il",
