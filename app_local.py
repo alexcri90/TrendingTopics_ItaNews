@@ -12,6 +12,7 @@ import torch
 from torch.utils.data import DataLoader, Dataset
 from transformers import AutoTokenizer, AutoModel
 from topic_modeling import perform_topic_modeling
+from number_models import find_optimal_number_of_topics
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -119,9 +120,15 @@ def main():
                 logger.error("No articles remained after preprocessing")
                 return
             
-            # Perform topic modeling
+            # Find the optimal number of topics
+            with st.spinner("Finding optimal number of topics..."):
+                optimal_num_topics = find_optimal_number_of_topics(preprocessed_articles)
+                st.write(f"Optimal number of topics: {optimal_num_topics}")
+                logger.info(f"Optimal number of topics: {optimal_num_topics}")
+            
+            # Perform topic modeling with the optimal number of topics
             with st.spinner("Performing topic modeling..."):
-                lda_model, feature_names, X = perform_topic_modeling(preprocessed_articles)
+                lda_model, feature_names, X = perform_topic_modeling(preprocessed_articles, num_topics=optimal_num_topics)
             
             if lda_model and feature_names is not None and X is not None:
                 st.write(f"Performed topic modeling. Number of topics: {lda_model.n_components}")
