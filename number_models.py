@@ -3,8 +3,13 @@ from gensim import corpora
 from gensim.models.coherencemodel import CoherenceModel
 from topic_modeling import perform_topic_modeling
 import logging
+import torch
 
 logger = logging.getLogger(__name__)
+
+# Check if CUDA is available
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+logger.info(f"Using device: {device}")
 
 def compute_coherence_values(texts, start=3, limit=12, step=1):
     coherence_values = []
@@ -18,7 +23,8 @@ def compute_coherence_values(texts, start=3, limit=12, step=1):
     
     for num_topics in range(start, limit + 1, step):
         try:
-            model, feature_names, X = perform_topic_modeling(texts, num_topics=num_topics)
+            # Pass the device to perform_topic_modeling
+            model, feature_names, X = perform_topic_modeling(texts, num_topics=num_topics, device=device)
             model_list.append(model)
             
             # Ensure the model has the correct format for coherence calculation
