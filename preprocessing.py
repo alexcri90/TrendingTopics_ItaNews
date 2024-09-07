@@ -21,10 +21,18 @@ def simple_tokenize(text):
     # Simple tokenization by splitting on whitespace and punctuation
     return re.findall(r'\b\w+\b', text.lower())
 
+def remove_source_ending(text: str) -> str:
+    # Pattern to match "proviene da" followed by any source name
+    pattern = r'\s*proviene da.*$'
+    return re.sub(pattern, '', text, flags=re.IGNORECASE)
+
 def preprocess_text(text: str, use_nltk: bool = True) -> List[str]:
     if not isinstance(text, str):
         logger.warning(f"Expected string, got {type(text)}. Converting to string.")
         text = str(text)
+    
+    # Remove the source ending
+    text = remove_source_ending(text)
     
     text = text.lower()
     

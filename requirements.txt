@@ -1,0 +1,13 @@
+requests
+pandas
+nltk
+gensim
+plotly
+streamlit
+python-dotenv
+torch --index-url https://download.pytorch.org/whl/cu121
+transformers
+scikit-learn
+numpy
+matplotlib
+wordcloud

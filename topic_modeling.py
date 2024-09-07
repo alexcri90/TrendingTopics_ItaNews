@@ -3,6 +3,7 @@ from torch.utils.data import DataLoader, TensorDataset
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation
 import numpy as np
+from gensim.models.coherencemodel import CoherenceModel
 
 def compute_coherence_values(dictionary, corpus, texts, limit, start=2, step=1):
     coherence_values = []
