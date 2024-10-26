@@ -81,7 +81,8 @@ def save_articles(articles):
         print("No articles to save. Skipping file creation.")
         return
 
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = datetime(2024, 10, 24).strftime("%Y-%m-%d")
+    # today = datetime.now().strftime("%Y-%m-%d")
     filename = f"data/articles_{today}.json"
     
     os.makedirs("data", exist_ok=True)
